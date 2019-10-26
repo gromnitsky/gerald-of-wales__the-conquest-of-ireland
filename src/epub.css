@@ -23,6 +23,11 @@ p:not([class]) + p:not([class]) {
   text-indent: 2em;
 }
 
+blockquote > p:not([class]) + p:not([class]) {
+  text-indent: 0;
+  margin: 1em 0;
+}
+
 /* title rubbish */
 
 p.author {
@@ -52,4 +57,10 @@ p.date::before {
 
 div.rights::before {
   content: "License: ";
+}
+
+/* footnotes */
+
+a.footnote-ref {
+  vertical-align: super;
 }

@@ -38,6 +38,7 @@ class Footnotes
   end
 
   def add line; @all[@current].push line; end
+  def size; @all.size; end
   def transform_ids line; line.gsub(@ft_ref, '\\1[^\\2]'); end
 
   def render
@@ -48,11 +49,14 @@ class Footnotes
   end
 end
 
+ft = []
+
 ($stdin.read.split '').each_with_index do |page, page_idx|
   lines = page.split "\n"
   footnotes = Footnotes.new page_idx
+  ft.push footnotes
 
-  puts "\n<!-- #{page_idx} -->\n\n"
+  print "<!-- #{page_idx} --> "
 
   prev_line = ''
   lines.each_with_index do |line, idx|
@@ -75,5 +79,10 @@ end
 
   end
 
-  footnotes.render
+#  footnotes.render
+end
+
+puts ""
+ft.each do |footnotes|
+  footnotes.render if footnotes.size > 0
 end
