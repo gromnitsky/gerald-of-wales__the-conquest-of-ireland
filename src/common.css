@@ -1,0 +1,21 @@
+img {
+  max-width: 100%;
+}
+
+.figure > img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.figure > .caption {
+  text-align: center;
+}
+
+blockquote {
+  margin-right: 0;
+}
+
+.align-right {
+  text-align: right;
+}

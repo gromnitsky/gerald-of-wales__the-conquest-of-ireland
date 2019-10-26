@@ -1,0 +1,55 @@
+/* pandoc TOC noncence */
+
+nav > ol.toc {
+  padding: 0;
+}
+
+nav > ol.toc > li {
+  list-style-type: none;
+}
+
+ol.toc li {
+  list-style-type: disc;
+}
+
+/* generic paragraphs */
+
+p:not([class]) {
+  margin: 0;
+  padding: 0;
+}
+
+p:not([class]) + p:not([class]) {
+  text-indent: 2em;
+}
+
+/* title rubbish */
+
+p.author {
+  margin: 1em 0;
+  text-indent: 0
+}
+
+p.author::before {
+  content: "Author: ";
+}
+
+p.translator::before {
+  content: "Translator: ";
+}
+
+p.editor::before {
+  content: "Editor: ";
+}
+
+p.publisher {
+  display: none;
+}
+
+p.date::before {
+  content: "Published: ";
+}
+
+div.rights::before {
+  content: "License: ";
+}
