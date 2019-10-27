@@ -1,3 +1,11 @@
+# Maps
+
+![Major Irish Kingdoms c.1170](1170.gif)
+
+# Pedigree
+
+![Pedigree of the descendants of Nesta](pedigree.png)
+
 # Preface.
 
 GIRALDUS CAMBRENSIS, so called from the country of which he was a
@@ -3830,6 +3838,15 @@ place of a written instrument, to the British nation and king.
 <!-- 83 --> I here bring my history to a close, having faithfully related what has come under my knowledge, and
 testified what I have actually witnessed; and I leave it to future historians, of sufficient talent, to describe
 subsequent events in a style fitting their importance.
+
+# Credits
+
+* Maps: modified from [irishhistorypodcast.ie](https://irishhistorypodcast.ie/a-map-of-irelands-rival-kingdoms-c-1170/)
+* Text: [yorku.ca](http://www.yorku.ca/inpar/)
+* Preface: [archive.org](https://archive.org/details/historicalworkso00girauoft)
+
+For comments/questions, create an issue on the [github repo](https://github.com/gromnitsky/gerald-of-wales__the-conquest-of-ireland).
+
 
 [^1]: This book against Giraldus's Topography of Ireland appears to be lost, and even the author's name is unknown.
 

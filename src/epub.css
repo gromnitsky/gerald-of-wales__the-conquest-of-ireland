@@ -39,20 +39,8 @@ p.author::before {
   content: "Author: ";
 }
 
-p.translator::before {
-  content: "Translator: ";
-}
-
-p.editor::before {
-  content: "Editor: ";
-}
-
 p.publisher {
   display: none;
-}
-
-p.date::before {
-  content: "Published: ";
 }
 
 div.rights::before {
@@ -63,4 +51,20 @@ div.rights::before {
 
 a.footnote-ref {
   vertical-align: super;
+}
+
+#pedigree figure img {
+  height: 75%;
+  width: 75%;
+}
+
+#maps figure img {
+  height: 80%;
+  width: 80%;
+}
+
+figure, figure img, figcaption {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }

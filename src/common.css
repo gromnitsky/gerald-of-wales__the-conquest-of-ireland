@@ -6,13 +6,7 @@ img {
   max-width: 100%;
 }
 
-.figure > img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.figure > .caption {
+figcaption {
   text-align: center;
 }
 
@@ -26,4 +20,8 @@ blockquote {
 
 .align-center {
   text-align: center;
+}
+
+p.date::before {
+  content: "Latest update: ";
 }
