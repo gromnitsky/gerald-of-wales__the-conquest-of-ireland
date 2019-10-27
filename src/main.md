@@ -1,11 +1,3 @@
-# Maps
-
-![Major Irish Kingdoms c.1170](1170.gif)
-
-# Pedigree
-
-![Pedigree of the descendants of Nesta](pedigree.png)
-
 # Preface.
 
 GIRALDUS CAMBRENSIS, so called from the country of which he was a
@@ -248,6 +240,14 @@ understand that Sir Richard alone is responsible for the statement or
 opinion.
 
 <p class="align-right">Thomas Wright</p>
+
+# Maps
+
+![Major Irish Kingdoms c.1170](1170.gif)
+
+# Pedigree
+
+![Pedigree of the descendants of Nesta](pedigree.png)
 
 # The Author's First Preface.
 

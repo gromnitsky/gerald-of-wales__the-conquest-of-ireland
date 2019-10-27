@@ -10,8 +10,9 @@ abstract: |
   activity of Norman lords in the marches who were acting more or less
   independently of the crown.
 keywords: [ireland, normans, england, wales]
-lang: en-US
+lang: en
 rights: Public domain
 publisher: "https://github.com/gromnitsky"
 date: <%= Date.today %>
+cover-image: data/cover.png
 ---

@@ -17,10 +17,12 @@ deps := $(src.all) $(cache)/meta.yaml
 
 $(out)/$(book.name).epub: $(deps)
 	$(mkdir)
-	$(pandoc) -p --toc --resource-path=src -c src/common.css -c src/epub.css $(cache)/meta.yaml src/main.md -o $@
+	$(pandoc) -t epub3 --epub-chapter-level=2 -p --toc --resource-path=src -c src/common.css -c src/epub.css $(cache)/meta.yaml src/main.md -o $@.tmp
+	epub-hyphen $@.tmp -o $@
+	@rm $@.tmp
 
 $(out)/$(book.name).mobi: $(out)/$(book.name).epub
-	cd $(dir $<) && kindlegen $(notdir $<) -o $(notdir $@); :
+	cd $(dir $<) && kindlegen $(notdir $<) -o $(notdir $@)
 
 $(web)/index.html: $(deps)
 	$(mkdir)
