@@ -35,6 +35,11 @@ $(cache)/meta.yaml: src/meta.yaml
 	$(mkdir)
 	erb -r date $< > $@
 
+
+
+upload: all mobi
+	rsync -avPL --delete -e ssh $(out) gromnitsky@web.sourceforge.net:/home/user-web/gromnitsky/htdocs/lit
+
 mkdir = @mkdir -p $(dir $@)
 define copy =
 $(mkdir)
