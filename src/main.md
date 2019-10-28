@@ -366,7 +366,6 @@ bodies, and the mind is held in total thraldom. Nevertheless, reflecting and car
 useful the knowledge of these matters will be to posterity, and that nothing is more pernicious and hurtful
 to a laudable genius and studious mind than the idleness contracted by a slothful disposition, I at length
 persuaded myself, though not without much difficulty, to yield to these requests, and take my pen in hand.
-
 Yet what can be more presumptuous than to write when leisure is wanting; to publish books which are to
 be in everyone's hands, when we have no time to read them over ourselves; to submit them to the
 criticism of a crowd of envious and malignant judges, without having ourselves revised them? Tully, that
@@ -438,6 +437,7 @@ with your father in Normandy, and obtained aid from him, and is continued until 
 island, when I attended you; and I have honestly related all that was done, whether for good or evil, by the
 several leaders of expeditions and nobles who went over to Ireland, in regular order from the first to the
 last.
+
 <!-- 5 --> Here then, as in a bright mirror, and far more clearly, and certainly by the light of historical truth, it
 may be ascertained, seen, and reflected to whom the greatest share of glory of this conquest ought justly to
 be attributed; whether to the men of the diocese of St. David's, my own kinsmen, who were the first
@@ -484,7 +484,6 @@ castles, and on your own lands, which although they may be in the West, would li
 domestic enemies, who are for ever plotting treason, and only wait for time and opportunity to break into
 open revolt. It would be like wrapping snakes in the folds of your robe, or nourishing fire in your bosom
 which was ready to burst into flame. It is unsafe for princes to foster any hydra-heads in their dominions.
-
 It is especially unsafe for island princes to have in their territories any other frontier marches than the sea
 itself.
 
@@ -584,7 +583,6 @@ as Mark Anthony and Troy are witnesses, almost all the greatest evils in the wor
 women. King O'Roric being moved by this to great wrath, but more for the shame than the loss he
 suffered, was fully bent on revenge, and forthwith gathered the whole force of his own people and the
 neighbouring tribes, calling besides to his aid Roderic, prince of Connaught, then monarch of all Ireland.
-
 The people of Leinster, considering in what a strait their prince was, and seeing him beset on every side by
 bands of enemies, began to call to mind their own long-smothered grievances, and their chiefs leagued
 themselves with the foes of Mac Murchard, and deserted him in his desperate fortunes.
@@ -630,7 +628,6 @@ eldest daughter for wife, with the succession to his kingdom. This treaty having
 Dermitius, inflamed with the natural desire, which is so universal, of seeing his native land, lost no time in
 journeying to St. David's, in South Wales. The passage from hence to Leinster, by sea, may be
 accomplished in one day's sailing, and the distance is so short that one coast may be seen from the other.
-
 At that time, Rhys-ap-Gryffith was prince of that country, under fealty to the king, and David the second
 was bishop of St. David's; both of whom treated the unfortunate exile with great kindness.
 
@@ -681,7 +678,8 @@ understand this mysterious prediction, you must have respect to the descent of R
 both his parents. On the father's side he was an Anglo-Norman, on the mother's a Cambro-Briton, being
 the son of the noble lady Nesta.
 distinguished themselves in the Conquest of Ireland. The Fitzgeralds were, therefore, as they are here represented, half-brothers of
-Robert Fitz-Stephen. See the Pedigree at the beginning of this Book.
+Robert Fitz-Stephen.
+
 <!-- 15 --> In his company there also came over a man of fallen fortunes, Hervey de Montmaurice, who, having
 neither armour nor money, was a spy[^23]
 rather than a soldier, and as such acting for earl Richard, whose
@@ -763,6 +761,7 @@ order to recognize them, thrice lifted his hands to heaven in the excess of his 
 returned thanks to God most High. Among them was the head of one he mortally hated above all the rest,
 and taking it up by the ears and hair, he tore the nostrils and lips with his teeth in a most savage and
 inhuman manner.
+
 <!-- 17 --> After this, they made several inroads through the farthest parts of the country, which they ravaged
 and devastated with fire and sword, until at length the prince of Ossory, by the advice of his counsellors,
 sued for peace, which was granted, although it was false on both sides, and, giving hostages and taking
@@ -776,7 +775,6 @@ their valour. Meyler being ambitious of honour and glory, all his acts had espec
 and he lost no opportunity of doing anything which could add to his fame; but he was more desirous of
 appearing brave than of being so. The other was naturally a person of distinguished courage, who neither
 coveted praise nor affected popularity, and strove rather to be always among the first than to appear so.
-
 Such was his natural disposition, that with a modesty becoming a maiden, he neither boasted of or
 proclaimed his own doings, nor would he suffer others to sound his praises. Hence it happened, that the
 less he coveted honour, the more it clung to him; for honour follows virtue, like a shadow the substance;
@@ -791,7 +789,6 @@ their arms and clashing of their battle-axes. Such spectral appearances frequent
 who are engaged in hostile excursions. The alarm was so general that the greatest part of the army took to
 flight and hid themselves in the woods and marshes; but the two cousins, snatching up their arms, ran to
 the tents of Fitz-Stephen, loudly calling on their scattered comrades to rally for the defence of the camp.
-
 Amidst the general confusion, Robert de Barri exerted himself actively, to the admiration as well as the
 envy of many, for the safety of any of his retainers who might happen to be there. For among his various
 excellent qualities, this one was especially noted, that in no attack, however unexpected, in no sudden
@@ -941,6 +938,7 @@ reduced into one, and the dominion of the whole kingdom devolve on our posterity
 by our prowess, and Mac Murchard be restored, and the realm of Ireland be secured by our enterprise for
 us and our heirs for ever, how great will be our glory, how worthy of being achieved even by the loss of
 life and the contempt of death.
+
 "For what is death, but a momentary interval of time, a brief delay, and, as it were, a short sleep
 between this fleeting life and that which is enduring? What is death, but a short passage from things
 transitory to things eternal? We must all die, because that is the inevitable and common fate of mankind;
@@ -1027,7 +1025,6 @@ Strigul, son of earl Gilbert, sends greeting.*
 We have watched the storks and swallows; the summer birds have come, and are gone again with the
 southerly wind; but neither winds from the east nor the west have brought us your much desired and long
 expected presence.
-
 Let your present activity make up for this delay, and prove by your deeds that you have not forgotten
 your engagements, but only deferred their performance. The whole of Leinster has been already
 <!-- 23 --> recovered, and if you come in time with a strong force, the other four parts of the kingdom will be easily
@@ -1063,6 +1060,7 @@ such strangers, they held a council, and thinking it best to nip the evil in the
 in a body against them. Mustering, therefore, about three thousand men, they crossed the river Suir, which
 runs under the walls of the town on the east side, dividing Desmonia [Munster] from Leinster, and being
 formed into three bodies, boldly marched up to the intrenchments, prepared to make the assault.[^38]
+
 But it is scarcely possible that courage will not shew itself, or the ardour of valour be extinguished or
 daunted; and therefore, Raymond and his followers, inferior as they were in numbers, with surpassing
 gallantry sallied forth to meet their assailants and engaged in the too unequal conflict. Their small band of
@@ -1214,13 +1212,14 @@ a truce was agreed upon,
 of the city, and on the other a brave soldier, whose name was Milo de Cogan, (of whom we shall speak
 further in the 21st chapter), rushed to the walls with bands of youths, eager for the fight, and greedy of
 plunder, and making a resolute assault, got possession of the place after a great slaughter of the citizens.
-
 The better part of them, however, under their king Hasculf,[^44]
 embarked in ships and boats with their most
 valuable effects, and sailed to the northern islands.[^45]
+
 On the same day two great miracles occurred in the city. One was that the crucifix which the citizens
 struggled hard to carry away with them to the islands remained immovably fixed; the other, that of the
 penny offered before it having twice leapt back; both of which are related in my Topography.[^46]
+
 The earl then, having spent a few days in settling order in the city, left Milo de Cogan there as
 constable, and at the instigation of Mac Murchard, who had not forgotten an ancient feud with O'Roric,
 king of Meath, made a hostile irruption into the territories of that prince, and the whole of Meath was
@@ -1391,6 +1390,7 @@ assigned, and ample pay was promised. These princes were more ready to engage in
 the alarm they felt that the successes of the English were putting their own independence in danger, and
 they therefore lost no time in sailing with a favourable wind from the east, in about thirty ships full of men
 trained to war, and speedily entered the port of Avenliffy.[^54]
+
 The earl and his followers had now been confined within the walls of the city for nearly two months,
 and having received no supplies of food, either by land or sea, were in great want of provisions. And as
 evil seldom comes alone, and one misfortune is heaped upon another, just then, lo! Duvenald,[^55]
@@ -1440,7 +1440,6 @@ little difficulty in dealing with the other armies.
 Thereupon the brave youths flew to arms, and their small force, having been divided into three
 troops, they immediately arranged themselves in separate divisions. In the first was Raymond, with twenty
 men-at-arms; in the centre, Milo, with thirty; in the third and last were the earl and Maurice with forty.
-
 Some horse-soldiers and a few citizens were joined to each division, and besides these a small number
 were left to guard the walls. After some contention whether the governor of the city or the commander of
 the troops was entitled to lead in the first battle, they issued forth from the gates about an hour after nones,
@@ -1475,7 +1474,6 @@ and cunning. Bringing with them to the entrenchments the bishops of Wexford and 
 ecclesiastics, in their sacred vestments, they took solemn oaths on the holy relics that Dublin was taken,
 and that the earl, with Maurice and Raymond, and all the English were slain; also, that the king of
 Connaught and his army, with the Leinster troops, were on their march, and drawing near to Wexford.
-
 They also asserted that what they proposed was for the advantage of Fitz-Stephen; for as he had treated
 them like a courteous and liberal prince, they wished to send him and his followers back to Wales in
 safety, before the arrival of the vast army which was incensed against him. At length, Fitz-Stephen gave
@@ -1610,7 +1608,6 @@ came and swore fealty and allegiance to him, obtaining from the merciful king as
 favour. Among these were Machelan of Ophelan, Mac Talewy, Othwetel, Gillemoholmoch, O'Eadhese,
 O'Carvel of Uriel, and O'Roric of Meath. But Roderic of Connaught only met the king's messengers,
 Hugh De Lacy and William Fitz-Aldelm, at the water of Shannon, which divides Meath from Connaught.
-
 He also sued for peace, and acknowledging the king of England as his supreme lord, became tributary to
 him, and bound himself by the most solemn oaths of alliance and fealty.[^62]
 Thus did all the princes of
@@ -1716,7 +1713,6 @@ violence of the prevailing storms, and the surface of the dry land, which had be
 covered by the waves, was laid bare to view.[^65]
 Trunks of trees also appeared from place to place standing
 <!-- 38 --> erect in the bed of the sea, and bearing on them the marks of the axe, as if they had been cut but yesterday.
-
 The soil was also very black, and the wood of the trees resembled ebony. Such are the wonderful
 revolutions in the natural world, that, where once ships sailed, they could no now longer float, and what
 was a strand seemed now a grove of trees. Perhaps it was buried in the waters at the time of Noah's flood,
@@ -1757,17 +1753,8 @@ deliberate counsel as to what was to be done for the security of Ireland.
 
 Before he left Ireland, the king appointed these following to be constables or governors of cities and
 strongholds; namely, in Dublin, Hugh de Lacy, to whom he had granted Meath, to be held in fee, and who
-had with him twenty men-at-arms; also Fitz-Stephen and Maurice Fitz-gerald, with twenty more; in
-alder, and sallow, which, as Giraldus states, bear the marks of the axe. The wood is not only, as he says, black as ebony, but some
-of it is still so sound that it is converted into gate-posts. The strand is still below high-water mark; but when the tide is out, the
-black earth here mentioned, consisting of decomposed vegetable matter, is carted away by the farmers of the neighbourhood for
-manure.
-
-Remote as the period of this catastrophe must have been, the circumstances are very different from those of the forest
-embedded on the Norfolk coast, near Cromer, presenting in some respects the same appearances. For there the forest lies buried
-under a mass of drift two hundred feet in thickness; and Lyell considers that its situation implies a subsidence of that depth since
-the commencement of the Post-Pliocene period, and a subsequent upheaval, as the forest bed of Norfolk is now again so high as to
-be exposed to view at many points at low water, like those in South Wales. See Elements of Geology, c. x.
+had with him twenty men-at-arms; also Fitz-Stephen and Maurice
+Fitz-gerald, with twenty more;
 <!-- 39 --> Waterford, Humphrey de Bohun, Robert Fitz-Bernard, and Hugh de Gundeville, with forty men-at-arms;
 in Wexford, William Fitz-Aldelm, Philip de Hastings, and Philip de Braose, with twenty. At length, on the
 Monday of Easter week, at sunrise, he took boat, and getting on board ship in the outer harbour of
@@ -1786,9 +1773,7 @@ people of the country who understood British (Welsh), she still continued to voc
 with increased violence, alluding to a certain prophecy of Merlin's, which, though current among the
 vulgar, was not authentic, to the purport that a king of England, returning through Menevia, after the
 conquest of Ireland, where he had been wounded by a man with a bloody hand, should die on Lechlawar.
-
 For this was the name given to a stone which was placed across the stream, dividing the cemetery of St.
-
 David's from the north side of the church, to form a bridge. The stone was of beautiful marble, and the
 surface was worn smooth by the feet of those who passed over it. Its length was ten feet, its breadth six,
 and it was one foot thick. In the British (Welsh) language the word Lechlawar means "the speaking-
@@ -1812,7 +1797,6 @@ Haverford, about twelve miles distant.
 The king, in returning to England out of Wales, took the road on the sea coast by which he had
 journeyed thither, and going on board ship in great haste, and crossing over to Normandy, showed his
 deference for the pope by losing no time in presenting himself to the Roman cardinals at Coutances.
-
 There, after much altercation, he cleared his innocence by a solemn oath; but a penance was enjoined him,
 because, although he was not privy to the murder, it was through him the martyr suffered. Having then
 honourably dismissed the legates, he hastened to Marche, to hold a conference with Louis, king of France;
@@ -1887,7 +1871,6 @@ first, by the exchange of messages at a distance, and afterwards in person when 
 both sides by their solemn oaths, they came to the parley. It had been stipulated that only a very few
 should be present on each part, and those in equal numbers, and unarmed, except with their swords on the
 one side and their battle-axes on the other, while the rest of the people remained at some little distance.
-
 Meanwhile Griffyth, who had come to the parley in company with Maurice, and was full of anxiety in
 consequence d his dream, had selected seven of his kinsmen, in whose courage he had the strongest
 confidence, and drew them apart to one side of the hill, but as near as they were allowed to the place of
@@ -1903,7 +1886,6 @@ axe raised, towards those who were engaged in the parley, when Maurice Fitzgeral
 and having closely watched all that had taken place, in consequence of his having chanced to hear his
 nephew's dream mentioned, and during the parley had constantly kept his sword lying across his knees,
 with his hand on the hilt, now drew it, and rising up, warned Hugh de Lacy also to stand on his defence.
-
 The traitor then made a desperate stroke at Hugh, but it fell on the interpreter, who, faithful to his lord,
 thrust himself forward to shield him, and cut off his arm, giving him a mortal wound.
 
@@ -1934,7 +1916,6 @@ town gate, to conceal it in a dunghill. The man's friend waking up, and having m
 account to be true, and causing the innkeeper to be apprehended, he was condemned and executed.
 
 Arcerius Rufus dreamed that he was killed by a gladiator, which came to pass the day following.
-
 Simonides, the poet, having buried the corpse of a man which he found lying on the sea-shore, was
 warned by him in a dream the came night not to go to sea on the day following, and accordingly he
 remained on shore. The mariners, with whom he was to embark, set sail, and were buried in the waves
@@ -2059,7 +2040,6 @@ exasperated by severe things being said of them; and a comic writer tells us tha
 friends, but the language of truth makes enemies; so that it is a dangerous matter to say anything against
 one who has the power of revenging himself; and it is still more perilous, and more arduous than
 profitable, to describe freely and in many words a prince who, by a single word, can consign you to ruin.
-
 It would surely be a pleasing task, but I confess that it is one beyond my powers, to tell the truth
 respecting a prince in everything without in any way offending him. But to the purpose.
 
@@ -2068,7 +2048,6 @@ were grey, bloodshot, and flashed in anger. He had a fiery countenance, his voic
 neck a little bent forward; but his chest was broad, and his arms were muscular. His body was fleshy, and
 he had an enormous paunch, rather by the fault of nature than from gross feeding. For his diet was
 temperate, and indeed in all things, considering he was a prince, he was moderate, and even parsimonious.
-
 In order to reduce and cure, as far as possible, this natural tendency and defect, he waged a continual war,
 so to speak, with his own belly by taking immoderate exercise. For in time of war, in which he was almost
 always engaged, he took little rest, even during the intervals of business and action. Times of peace were
@@ -2238,7 +2217,6 @@ can to come over to us with all the force you can muster, and be assured that im
 I will give you my sister Basilia in marriage, according to your wishes." On receiving this letter, Raymond
 <!-- 49 --> used all despatch in complying with it, both for love of the noble lady, to whom he had been long ardently
 attached, and from his desire of exhibiting his prowess and carrying succour to his lord in his time of need.
-
 Wherefore, in conjunction with his cousin Meyler and other men of condition who were his kinsmen, he
 hastily collected thirty men-at-arms, and one hundred horse-soldiers, with three hundred bowmen, the best
 in Wales, and as soon as the wind served, transported them to Waterford in fifteen ships.[^86]
@@ -2469,6 +2447,7 @@ O family! O race! indeed it is doubly noble; deriving their courage from the Tro
 arms from the French. Such a kindred and race, remarkable not only for its numerous branches but for its
 innate valour, would of itself have been equal to the conquest of a kingdom, had not envy and malice
 succeeded in lowering its high estate.
+
 <!-- 54 --> Raymond spent a short time at Limerick in well-ordering the state of the city, and having stored it
 with provisions collected from all the country round, he placed there a garrison consisting of fifty men-at-
 arms, two hundred horsemen, and as many archers, under the command of Milo of St. David's[^98]
@@ -2534,10 +2513,10 @@ them, still further to animate their courage. "Brave soldiers, and conquerors of
 day manfully attack the enemy; for if your wonted valour is victorious in the onset, the Irish battle axes
 will second your swords in following up their defeat with effect. But if we find your ranks give way,
 which God forbid, it may chance that, in conjunction with the enemy, they will be turned against you.
-
 Look well, therefore, men, to yourselves; there are no strongholds near us, we are far from any place of
 refuge. It is our custom to side with the winning party, and to fall on those who run away. Trust to us
 therefore; but only while you are conquerors."
+
 Upon hearing this, Meyler, who led the van, rushed like a whirlwind, at the head of his men, into the
 pass, and tearing down the rampart, they thus cut their way through the enemy with great slaughter. The
 pass was forced on Easter Eve, and on the third day in Easter week, Tuesday, [the day of Mars], the
@@ -2670,7 +2649,6 @@ in Ireland. After this, Fitz-Aldelm had a meeting with Maurice's sons at the cas
 (Ginkel), and so dealt with them that he never left them until, by some means or other, he craftily got the
 castle out of their hands. Soon afterwards, indeed, he gave them Ferns as a sort of exchange; where they
 forthwith built a strong fortress, and held it stoutly, though it was in the midst of the enemy's country.
-
 Walter the Almaine, so called, although he was not such either by birth or stature, a nephew of William
 Fitz-Aldelm's, was appointed by him constable of Wexford, and showed by his conduct that he was of the
 same stock. It is but too true that
@@ -2680,7 +2658,7 @@ same stock. It is but too true that
 > Ut se posse putent; nec bellua tetrior ulla est\
 > Quam servi rabies in libera colla furentis."[^103]
 >
-> No greater despot than the base-born raised\
+> "No greater despot than the base-born raised\
 > Above his rank; fear makes him a tyrant,\
 > Measuring his power by the terror it excites:\
 > Nothing so monstrous as a slave's oppression,\
@@ -2878,7 +2856,6 @@ with the constableship both of
 Waterford and Wexford. The king also granted to Robert Fitz-Stephen and Milo de Cogan all the southern
 part of Munster, namely, the kingdom of Cork from the west of Lismore, and the adjoining cantred, except
 the city of Cork, the said territories to be equally divided between them, and held of him by knight service.
-
 The king also gave to Philip de Braose the northern division of Munster, namely, the whole kingdom of
 Limerick, except the city itself and the cantred belonging to it. These three having thus received their
 grants and done fealty at the same time, formed a strict alliance, and crossed over to Ireland in company,
@@ -2910,6 +2887,7 @@ he was not wanting in courage himself, determined to return home safe, rather th
 wonder that this expedition turned out so unfortunately, considering the number of cut-throats, and
 murderers, and lewd fellows, whom Philip de Braose had, by his own special choice, got together, from
 South Wales and its marches, to accompany him to Ireland.[^111]
+
 Soon afterwards, Mereduc, Fitz-Stephen's son, a youth of great gallantry and much promise, died at
 Cork, in the month of March, to the great grief of his friends, he being truly a disciple of Mars. About this
 time also, the cow mentioned in my Topography[^112]
@@ -2970,6 +2948,7 @@ Stephen's, and a brother of Philip de Barri, who rendered his uncle and brother 
 good advice, and also made diligent inquiries respecting the situation and natural history of the island, as
 well as the origin of the nation. This person was already versed in literary pursuits, and his name appears
 as the author of the present work.[^115]
+
 About this time Hervey de Montmaurice retired to Canterbury, and became a monk in the abbey of
 the Holy Trinity there, to which he gave in frank-almoin all the churches on his lands lying between
 Waterford and Wexford. Would to God that with the monastic garb his mind had become pious, and he
@@ -3004,7 +2983,6 @@ the charge of these far-distant marches, merely because they were hangers-on abo
 Lacy, a very different sort of person, made it his first care to restore peace and order, reinstating the
 peasants who, after they had submitted to the conquerors, were violently expelled from their districts, in
 the deserted lands, which from barren wastes now became cultivated and stocked with herds of cattle.
-
 Having thus restored confidence by his mild administration and firm adherence to treaties, his next care
 was to enforce submission and obedience to the laws on the inhabitants of corporate towns, thus gradually
 bringing them into subordination. By these means, where his predecessors had spread ruin and confusion,
@@ -3101,7 +3079,6 @@ beyond the sea. Being seized with mortal sickness at Abbeville,[^127]
 the holy man, in spite of the
 remonstrances of his attendants, refused to rest there, saying that his place of rest was not there; and
 having passed onwards on the road to the castle of Eu, as soon as he came in sight of the church of St.
-
 Mary, and was informed that it was dedicated to the blessed Virgin, he quoted that verse from the Psalms
 in the spirit of prophecy: "This shall be my rest for ever: here will I dwell, for I nave a delight therein."[^128]
 He died a few days afterwards in that place, and was buried with due ceremony in the mother church
@@ -3182,7 +3159,6 @@ also other monies which should be forthwith delivered to him for the defence of 
 To this the patriarch replied as follows: "You do nothing, O king, if this be your determination, and
 you persist in it. In this way you will neither save yourself nor preserve Christ's patrimony. We come to
 seek a prince, not money; nearly every part of the world sends us money, but none sends a prince.
-
 Therefore we desire to have a man that may want money, and not money that may want a man." The
 patriarch, finding, however, that he could get no other answer from the king, changed his plan of
 proceeding, and entreated that he would send one of his sons to succour them, and become their prince,
@@ -3351,6 +3327,7 @@ sort suffers in the persons of his servants should be set forth where he reigns 
 with the Father, and not on the cross. For he himself testified that he should suffer with Peter the same sort
 of punishment which he was about to undergo at Rome, when he said, "I am come to Rome to be crucified
 again."
+
 As concerning the words uttered by the voice beginning in a barbarous language and ending in Latin,
 I will mention what I think. Woch, Woch, in the German tongue, is a sort of interjection repeated, and
 signifying woe; it means the same as if it were said, Alas! alas! Father and Son! alas! alas! Holy Ghost!
@@ -3401,7 +3378,6 @@ envoys on the duke's behalf, to escort the king's daughter.
 The coronation of Henry III., son of king Henry, celebrated at London by the archbishop of York, to
 the prejudice of the rights of the church of Canterbury. Ambassadors came from Spain and obtained the
 king's consent to the marriage of his daughter Elianor with Alphonso king of Toledo and Castile.
-
 Dermitius being driven into exile, resorts to the king of England; and Fitz-Stephen, first, and afterwards
 earl Richard, sail over to Ireland. The noble expedition from Album Monasterium into Powis, and its safe
 return, notwithstanding the floods from heavy rains, after the beheading of the hostages and destruction of
@@ -3416,7 +3392,6 @@ cardinals, and with the king of France. The first withdrawal of the young king w
 his father's court to France. The king's unexpected success in the unnatural two year's war, and his
 clemency to the vanquished, which I have shortly mentioned, noticing the capture of the earls of Chester
 and Leicester and the king of Scotland, at the end of the last Book. Huguntio Peter Leo, cardinal of St.
-
 Angelo, being sent as the pope's legate to England, convokes a synod of all the clergy of England at
 London; which was abruptly terminated by reason of the contention between Richard, archbishop of
 Canterbury, and Roger, archbishop of York, respecting the primacy and the precedence of their churches;
@@ -3436,13 +3411,12 @@ Navarre, was most distinguished for his extraordinary eloquence. The king having
 counsel, and resolving to adopt a middle course, and remove all grounds for future quarrels, gave part to
 one, and took away part from the other, so that neither of them should suffer serious loss; for having been
 appointed umpire between the two, he was anxious to promote, as far as he could, the security of each.
-
 The proceedings having been put in shape and reduced to writing, the king, for greater caution, caused a
 formal judgment to be signed, in order that if either party should refuse to stand by the proceedings, all
 controversy might be quashed by his definitive sentence.[^141]
+
 Louis king of France came to England, and went on a pilgrimage to Canterbury, for the purpose of
 devoutly imploring the patronage of the blessed martyr, on whom he had heaped favours during his exile.
-
 The king having made an offering of a cup of gold of great value and exquisitely wrought, at the spot
 where the sacred remains were laid, prostrated himself for a while at the martyr's tomb, laying his bare
 head at the opening on the right side of the marble slab; and then rising from his devotions, that the
@@ -3495,7 +3469,6 @@ and often begins their punishment in this life.
 All things necessary for this great expedition having been prepared and made ready by the royal
 commands, John, the king of England's youngest son, on whom the dominion of Ireland had been lately
 conferred, took his journey by the coast road of South Wales towards Menevia, and arrived at Pembroke.
-
 He was accompanied by a person of the highest station, Ranulf de Glanville, the king's chief privy
 counsellor and justiciary of all England, who conducted him on board ship. On Wednesday in Easter
 week, the breeze blowing favourably from the eastward, he embarked in the noble fleet which lay at
@@ -3562,6 +3535,7 @@ to submission. Therefore, perhaps, it was the will of God that both nations shou
 mutual conflicts, neither of them having merited or altogether forfeited his favour, so that the one did not
 gain the prize of triumphant success, nor was the other so vanquished as to submit their necks generally to
 the yoke of servitude,
+
 The Irish may be said to have four prophets, Molingus, Braccanus, Patrick, and Columkill, whose
 books, written in Irish, are still extant; and all these, speaking of this conquest, agree in affirming that it
 will be attended with frequent conflicts, with long wars continued for several generations, and much
@@ -3579,14 +3553,12 @@ Three castles were built immediately after prince John's first arrival; one at T
 Archfinan, and the third at Lismore. Likewise, three noble youths were unfortunately killed; Robert de
 Barri at Lismore, Raymond Fitz-Hugh at Olechan, and Raymond of Kantitune at Odrone. Part of the
 garrison of Archfinan were set on and routed by the prince of Limerick, in the wood of Archfinan, on St.
-
 John the Baptist's day (24th June), and four men-at-arms were slain. The garrison of Archfinan. were
 again attacked when plundering towards Limerick, and nineteen men-at-arms slain. Dermitius Macarthy,
 prince of Desmond, and many others, fell by the hands of the men of Cork, and the troops of Theobald
 Fitz-Walter, in a parley near Cork. The men of Keneleone (Kilkenny), under their prince, having made a
 too daring irruption into the borders of Meath, the men of Meath, under the command of William the
 Little (Gulielmus Modicus), put one hundred of the invaders to the sword, and sent their heads to Dublin.
-
 John de Courcy having discovered a precious treasure, the bodies of three Saints, Patrick, Bridget, and
 Columba, at Down, these relics were by his care translated. Hugh de Lacy was treacherously slain and
 decapitated by the axes of the Irish under his dominion at Dernach. Thirteen of John de Courcy's noble
@@ -3696,7 +3668,6 @@ losses on the enemy. Would that he had been as skilful a general as he was a bra
 exercised as much discretion in commanding as he exhibited daring in the field.
 
 I must add to my account of the mischiefs done by the new government, one that is the greatest of all.
-
 Not only do we neglect to make any offering to the church of Christ, not only are the honours and thanks
 due to God unacknowledged by any gift of the prince and his followers, but we even rob the church of its
 lands and possessions, and strive to abridge or annul its ancient rights and privileges. When I come to
@@ -3738,7 +3709,6 @@ plenty of it from their youth, and so nothing could induce them to remain long i
 king's son, and to be near the supplies, and far enough from any scarcity. They were talkers, boasters,
 enormous swearers, and held all others in supreme contempt. Ever on the look-out for pay and grants of
 land, and the foremost to get advancement and honours, they were the last to earn them by their services.
-
 As, therefore, the veteran soldiers by whose enterprise the way into the island was opened to us, were
 treated with suspicion and neglect, and our counsels were only communicated to the new-comers, who
 only were trusted and thought worthy of honour, it came to pass that as the veterans kept aloof, and
@@ -3784,6 +3754,7 @@ under such circumstances. And, in the Irish wars, particular care should be alwa
 with the other troops, in order to gall, by flights of arrows shot from a distance, the slingers who rush
 forward and heave stones on the heavy armed troops, and then retire with great agility, thus alternately
 advancing and retreating.
+
 <!-- 82 --> Moreover, the part of the country on this side, as far as the river Shannon, which forms the boundary
 between the three eastern parts of the island and the fourth or western part, should be protected by strongly
 fortified castles built in different places. And further, in the meantime, let all the country beyond the
@@ -3835,6 +3806,7 @@ in the birds with which it abounds, in order that all occasion of dispute or opp
 the future. Thus, as time proceeds on its course, and the regular line of descent is perpetuated to the
 farthest degree, this annual tribute should be retained, as a lasting acknowledgment of this conquest, in the
 place of a written instrument, to the British nation and king.
+
 <!-- 83 --> I here bring my history to a close, having faithfully related what has come under my knowledge, and
 testified what I have actually witnessed; and I leave it to future historians, of sufficient talent, to describe
 subsequent events in a style fitting their importance.
@@ -3982,7 +3954,43 @@ For comments/questions, create an issue on the [github repo](https://github.com/
 
 [^64]: See the Topog., D. ii. c. 54.
 
-[^65]: There can be no doubt that, at some remote period, though beyond the reach of any records, a vast tract of low ground extended round the coast of Pembrokeshire and the adjoining counties, washed by the Severn sea. The great storms of the memorable winter of 1172 again laid bare some parts of the coast in Pembrokeshire, and disclosed objects which are here faithfully described by Giraldus. He repeats this account in his itinerary, B. i. c. 13, connecting it with his observations in crossing Newgill sands, near St. David's. But it equally applies to those of Ear-weare, near Tenby, which he must have known quite as well, as they lie within ten miles of Manorbeer, the place of his birth. Here there was a great forest, called Coed-Traeth, the wood on the strand, or beach, some remains of which still clothe the valleys which open out on the shore, at the verge of the buried tract. In both instances the stools and roots of trees are seen in their natural position, the trunks having been broken short off, and imbedded with their branches and leaves. Many of them are of large girth; and we have discovered many sorts, such as oak, elm,
+[^65]: There can be no doubt that, at some remote period, though
+       beyond the reach of any records, a vast tract of low ground
+       extended round the coast of Pembrokeshire and the adjoining
+       counties, washed by the Severn sea. The great storms of the
+       memorable winter of 1172 again laid bare some parts of the
+       coast in Pembrokeshire, and disclosed objects which are here
+       faithfully described by Giraldus. He repeats this account in
+       his itinerary, B. i. c. 13, connecting it with his observations
+       in crossing Newgill sands, near St. David's. But it equally
+       applies to those of Ear-weare, near Tenby, which he must have
+       known quite as well, as they lie within ten miles of Manorbeer,
+       the place of his birth. Here there was a great forest, called
+       Coed-Traeth, the wood on the strand, or beach, some remains of
+       which still clothe the valleys which open out on the shore, at
+       the verge of the buried tract. In both instances the stools and
+       roots of trees are seen in their natural position, the trunks
+       having been broken short off, and imbedded with their branches
+       and leaves. Many of them are of large girth; and we have
+       discovered many sorts, such as oak, elm, in alder, and sallow,
+       which, as Giraldus states, bear the marks of the axe. The wood
+       is not only, as he says, black as ebony, but some of it is
+       still so sound that it is converted into gate-posts. The strand
+       is still below high-water mark; but when the tide is out, the
+       black earth here mentioned, consisting of decomposed vegetable
+       matter, is carted away by the farmers of the neighbourhood for
+       manure.
+
+       Remote as the period of this catastrophe must have been, the
+       circumstances are very different from those of the forest embedded on
+       the Norfolk coast, near Cromer, presenting in some respects the same
+       appearances. For there the forest lies buried under a mass of drift
+       two hundred feet in thickness; and Lyell considers that its situation
+       implies a subsidence of that depth since the commencement of the
+       Post-Pliocene period, and a subsequent upheaval, as the forest bed of
+       Norfolk is now again so high as to be exposed to view at many points
+       at low water, like those in South Wales. See Elements of Geology,
+       c. x.
 
 [^66]: Roger de Hoveden calls this cardinal Theodimus. He gives full details, and has preserved a great number of documents relating to the quarrel between Henry II and Becket, the archbishop's murder, and the proceedings which arose out of it.
 
