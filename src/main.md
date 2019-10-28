@@ -1,4 +1,4 @@
-# Preface.
+# Preface
 
 GIRALDUS CAMBRENSIS, so called from the country of which he was a
 native, was born about the year 1146, and belonged to one of the most
@@ -249,7 +249,7 @@ opinion.
 
 ![Pedigree of the descendants of Nesta](pedigree.png)
 
-# The Author's First Preface.
+# The Author's First Preface
 
 Forasmuch as in my Topography of Ireland I have described at large the site of the island, its
 singularities, and those of sundry things contained in it, the marvels in which nature has there indulged out
@@ -356,7 +356,7 @@ novelty ends, and it becomes old. In such matters, the present age may find thin
 which yet posterity may glory in. The one may be offended by what the other will read; the one may find
 reason to condemn what the other will esteem; the one may reject what the other will accept.
 
-# The Second Preface of Silvester Giraldus Cambrensis.
+# The Second Preface of Silvester Giraldus Cambrensis
 
 Having been often requested, and that by many persons, to write the history of such of the memorable
 acts performed in my own times as I have either heard reported by credible witnesses, or seen with my
@@ -413,7 +413,7 @@ have planned, though from a distance and with much diffidence, to write hereafte
 achievements, which, great in their first beginnings, have already shed the brightest lustre on your riper
 years, and of the future increase, of which it shall be more fully and adequately related.
 
-# The Author's Preface to the Second and Revised Edition of his History, dedicated to John, King of England.
+# The Author's Preface to the Second and Revised Edition of his History, dedicated to John, King of England
 
 *To his most revered lord, and beloved in Christ, John, the noble and illustrious king of England, lord
 of Ireland, duke of Normandy and Aquitaine, and count of Anjou: Giraldus dedicates his work, wishing
@@ -564,9 +564,9 @@ recover their former eminence; although my reward may be deferred till further t
 sure to award honour to every man, according to his just deserts.
 <!-- 8 --> <!-- 9 --> <!-- 10 --> <!-- 11 --> <!-- 12 -->
 
-# Book I.
+# Book I
 
-## Chapter I: How Dermitius, Prince of Leinster, took refuge in England, and was restored to his dominions by the king of England.
+## Chapter I: How Dermitius, Prince of Leinster, took refuge in England, and was restored to his dominions by the king of England
 
 Dermitius, the son of Murchard,[^10]
 and prince of Leinster,who ruled over that fifth part of Ireland,
@@ -614,7 +614,7 @@ prince of Leinster, into our grace and favour,--Wherefore, whosoever within the 
 shall be willing to give him aid, as our vassal and liegeman, in recovering his territories, let him be
 assured of our favour and licence on that behalf."
 
-## Chapter II: The return of Dermitius through Great Britain.
+## Chapter II: The return of Dermitius through Great Britain
 
 Dermitius, returning through Great Britain, loaded with honourable gifts by the royal munificence,
 but encouraged more by hope for the future than any aid he had yet obtained, reached at last the noble
@@ -667,7 +667,7 @@ he was honourably received by the
 clergy of that place, who entertained him to the best of their ability; and for a time laying aside his
 princely dignity, he spent the winter there in privacy.
 
-## Chapter III: The coming over of Robert Fitz-Stephen, and the taking of Wexford.
+## Chapter III: The coming over of Robert Fitz-Stephen, and the taking of Wexford
 
 In the meantime, Robert Fitz-stephen, mindful of his engagement and true to his plighted faith, had
 mustered thirty men-at-arms,[^20]
@@ -743,7 +743,7 @@ granted the town, with the whole territory appertaining to it, to Fitz-Stephen a
 stipulations in their original treaty. He also conferred on Hervey de Montmaurice two cantreds lying
 between the towns of Wexford and Waterford, to hold to him and his heirs in fee.
 
-## Chapter IV: The conquest of Ossory.
+## Chapter IV: The conquest of Ossory
 
 These things having been accomplished according to their desires, and their troops having been
 reinforced by the townsmen of Wexford, they directed their march towards Ossory,[^27]
@@ -810,7 +810,7 @@ Ireland.
 
 <!-- 18 -->
 
-## Chapter V: The whole of Ireland in league against Dermitius and Fitz-Stephen.
+## Chapter V: The whole of Ireland in league against Dermitius and Fitz-Stephen
 
 In the mean time, the wheel of fortune turns, and those who were at the top are threatened with a
 sudden fall. For as soon as the late successes of Dermitius, and the arrival of a formidable band of foreign
@@ -833,7 +833,7 @@ thus added to the natural strength of the position by these defences, on which t
 industry, they succeeded in completely shutting out the enemy, while means of access were open to
 themselves and their friends.
 
-## Chapter VI: The description of Dermitius, son of Murchard.
+## Chapter VI: The description of Dermitius, son of Murchard
 
 Dermitius was tall in stature, and of large proportions, and, being a great warrior and valiant in his
 nation, his voice had become hoarse by constantly shouting and raising his war-cry in battle. Bent more on
@@ -848,7 +848,7 @@ should be peaceably restored to him, and that Roderic would enter into a treaty 
 they alleged many reasons concerning their common country and nation, and used much speech to induce
 him to take this course; but all to no purpose.
 
-## Chapter VII: Roderic's speech.
+## Chapter VII: Roderic's speech
 
 Roderic, perceiving that these proposals were of no avail, and being convinced that he must have
 recourse to arms as his last refuge, assembled his forces, and thus
@@ -893,7 +893,7 @@ Wherefore, defending our country and liberty, and acquiring for ourselves eterna
 resolute attack and the extermination of our enemies, though they are but few in number, strike terror into
 many, and by their fate for ever deter foreign nations from such nefarious attempts."
 
-## Chapter VIII: The speech of Dermitius.
+## Chapter VIII: The speech of Dermitius
 
 Mac Murchard, perceiving that his troops were disheartened, and apparently in a state of
 consternation, reanimated them in the best manner he could. "Ye men of Leinster," he said, "my tried
@@ -916,7 +916,7 @@ contend at once for our country and our inheritance. They fight for gain, we to 
 occupy ground which is strongly fortified both by nature and art, where excessive numbers would be
 inconvenient, and a small force, full of courage and acting in concert, may suffice to secure success."
 
-## Chapter IX: The speech of Robert Fitz-Stephen.
+## Chapter IX: The speech of Robert Fitz-Stephen
 
 When Dermitius had ended his speech, Fitz-Stephen thus addressed his followers: "Ye brave youths,
 my comrades in war, who have gone through so many perils with me, and been ever courageous and
@@ -953,7 +953,7 @@ death, gain immortal fame as the reward of your valour."
 
 <!-- 21 -->
 
-## Chapter X: How peace was restored.
+## Chapter X: How peace was restored
 
 Roderic well knowing the uncertainty of events in war, and that, as it is justly said, "A wise man
 should try every means before he has recourse to arms," and also greatly dreading to join battle with
@@ -968,7 +968,7 @@ and confirmed by oaths sworn by both parties; but there was also a secret agreem
 Dermitius should not bring any more foreigners into the island; and should even send away those he had
 called in, as soon as he had reduced Leinster to a state of order.
 
-## Chapter XI: The coming over of Maurice Fitzgerald, and the conquest of Dublin.
+## Chapter XI: The coming over of Maurice Fitzgerald, and the conquest of Dublin
 
 These matters being settled, and fortune appearing again to smile upon them with a more favourable
 aspect, behold, Maurice Fitzgerald, of whom I have already spoken in the Second Chapter, and who was
@@ -998,7 +998,7 @@ expedition, as in all others, Meyler and Robert de Barri distinguished themselve
 valour. It was at this time that the woman was seen who had a beard, and a mane upon her back, like a
 horse, of whom I have already spoken in Distinct. ii. c. 20 of my Topography.
 
-## Chapter XII: The preparations of earl Richard.
+## Chapter XII: The preparations of earl Richard
 
 Mac Murchard, elated with his late successes, raised his hopes still higher, and having now recovered
 all his patrimonial territories, became ambitious of regaining the rights of his ancestors in old times, and
@@ -1047,7 +1047,7 @@ Henry II., king of England, and earnestly prayed and entreated him that he would
 possession of the lands which justly belonged to him by right of inheritance, or grant him licence to seek
 his fortune, trusting to fate, in foreign countries.
 
-## Chapter XIII: The coming over of Raymond, and defeat of the men of Waterford at Dundunolf.
+## Chapter XIII: The coming over of Raymond, and defeat of the men of Waterford at Dundunolf
 
 Having obtained the king's licence, although it was given in jest rather than in earnest, earl Richard,
 suffering the winter to elapse, sent forward to Ireland about the calends (the first) of May, a young man of
@@ -1095,7 +1095,7 @@ ransom they might have obtained the city itself or an immense sum of money. Herv
 who with three men-at arms had joined them on their first landing, and Raymond, took opposite sides of
 the question during the deliberations.
 
-## Chapter XIV: Raymond's speech.
+## Chapter XIV: Raymond's speech
 
 Raymond, contending earnestly for the liberation of the prisoners, spoke thus:--"Brave comrades, to
 enhance whose glory their fortune and courage seem to be enormous, let us now consider what is to be
@@ -1129,7 +1129,7 @@ his head, to thirst for blood, to give no quarter, to think of nothing but cutti
 put off his armour, his fierceness should also be laid aside, humanity should then take its place, pity
 actuate a noble mind, and gentle feelings revive."
 
-## Chapter XV: The speech of Hervey.
+## Chapter XV: The speech of Hervey
 
 Raymond having concluded his discourse, which was received by a murmur of applause from the
 people, Hervey ,stood up, and addressing the chiefs, thus began:--"Raymond has discoursed to us very
@@ -1170,7 +1170,7 @@ Hervey's opinion was approved by his comrades, and the wretched captives, as men
 their limbs broken, and were cast headlong into the sea, and drowned.
 <!-- 26 -->
 
-## Chapter XVI: The arrival of the earl, and the capture of Waterford.
+## Chapter XVI: The arrival of the earl, and the capture of Waterford
 
 Meanwhile earl Richard, having prepared all things necessary for so great an enterprise, took his
 journey to St David's along the coast of South Wales,[^39]
@@ -1196,7 +1196,7 @@ and in confirmation of, the treaty before made,[^41]
 the whole army marched towards Dublin, with banners
 displayed.
 
-## Chapter XVII: Siege and surrender of the city of Dublin.
+## Chapter XVII: Siege and surrender of the city of Dublin
 
 Dermitius having received intelligence that the citizens of Dublin had summoned the people from all
 parts of Ireland to succour them in defending the place, and that all the roads through the woods and other
@@ -1247,7 +1247,7 @@ conduct at the council of Lateran, towards the close of his life, gave umbrage t
 in a foreign land.
 <!-- 28 -->
 
-## Chapter XVIII: The synod of Armagh.
+## Chapter XVIII: The synod of Armagh
 
 After these events, a synod of all the clergy of Ireland was convoked at Armagh, in which the arrival
 of the foreigners in the island was the subject of long debates and much deliberation. At length it was
@@ -1263,7 +1263,7 @@ had justly merited to undergo the yoke of servitude, as the sellers had done in 
 therefore decreed by the before-mentioned synod, and proclaimed publicly by universal accord, that all
 Englishmen throughout the island who were in a state of bondage should be restored to freedom.
 
-## Chapter XIX: The proclamation of the king of England.
+## Chapter XIX: The proclamation of the king of England
 
 Reports having been spread abroad of these events, which were much exaggerated, and the earl
 having made himself master not only of Leinster, but of other territories to which he had no just claims in
@@ -1280,7 +1280,7 @@ vassal Dermitius in the recovery of his territories. Whatever lands, therefore, 
 to acquire in this country, either in right of his patrimony, or from any other person, I consider to be owing
 to your gracious favour, and I shall hold them at your free disposal."
 
-## Chapter XX: The martyrdom of St. Thomas.
+## Chapter XX: The martyrdom of St. Thomas
 
 Raymond pursuing his journey and having arrived at court with the earl's letter, the king received
 him with great cold ness, and being as usual much occupied with business, deferred his reply.
@@ -1345,7 +1345,7 @@ Meanwhile, when the winter was passed, Dermitius mac Murchard died at Ferns, ful
 calends (the first) of May.
 <!-- 30 -->
 
-## Chapter XXI: The overthrow of the Danes at Dublin.
+## Chapter XXI: The overthrow of the Danes at Dublin
 
 At this time, about the feast of Whitsuntide, Hasculf, who had been king of Dublin, sailed into the
 Liffy with sixty ships full of Norwegians and men of the isles,[^50]
@@ -1378,7 +1378,7 @@ hearing this, Milo ordered him to be beheaded: for on the tongue resteth life an
 the proud. It is an ill remedy for trouble to vent grief in such a manner as to aggravate it. Thus, Hasculf,
 whose life had been pardoned, lost it for an arrogant speech.
 
-## Chapter XXII: The siege of Dublin by Roderic of Connaught and the men of the isles.
+## Chapter XXII: The siege of Dublin by Roderic of Connaught and the men of the isles
 
 After this, the Irish finding that the resources of the earl were failing both by the loss of men and
 scarcity of victuals, with which the island had hitherto been plentifully supplied from England, the princes
@@ -1407,7 +1407,7 @@ own account, was still more anxious for his excellent brother, Robert Fitz-Steph
 children, who, surrounded by the enemy, were in a very ill-fortified hold, constructed of only turf and
 stakes. He therefore rose and thus addressed the earl and the other chief commanders.
 
-## Chapter XXIII: The speech of Maurice Fitzgerald.
+## Chapter XXIII: The speech of Maurice Fitzgerald
 
 "We did not come into this remote part of the world for our pleasure, and to enjoy repose, but to try
 our fortunes and prove our valour at the risk of our lives. For awhile we were in the ascendant, but now
@@ -1435,7 +1435,7 @@ king of this race, probably Godred Olavesšn, very naturally came to the aid of 
 <!-- 32 --> king of Connaught, as the chief and greatest of their enemies; for having defeated him, they would have
 little difficulty in dealing with the other armies.
 
-## Chapter XXIV: The defeat of Roderic at Dublin.
+## Chapter XXIV: The defeat of Roderic at Dublin
 
 Thereupon the brave youths flew to arms, and their small force, having been divided into three
 troops, they immediately arranged themselves in separate divisions. In the first was Raymond, with twenty
@@ -1462,7 +1462,7 @@ Ochadese, who were posted on the north side, with a vast multitude, broke up the
 morrow, the English, leaving a garrison in the city, unfurled their standards, and, flushed with victory,
 marched by the upper road through Odrone towards Wexford.
 
-## Chapter XXV: Fitz-Stephen is treacherously taken prisoner.
+## Chapter XXV: Fitz-Stephen is treacherously taken prisoner
 
 Meanwhile, as fortune is continually changing, and success always attended by some adverse event,
 the men of Wexford and Kinsale, to the number of about three thousand, regardless of their oaths and the
@@ -1486,7 +1486,7 @@ that the earl was near at hand, the traitors set fire to the town with their own
 <!-- 33 --> the island of Begeri, also called the Holy Isle, which lies at the mouth of the harbour, taking with them the
 captives and all their effects.
 
-## Chapter XXVI: Description of Fitz-Stephen.
+## Chapter XXVI: Description of Fitz-Stephen
 
 O excellent man, the true pattern of singular courage, and unparalleled enterprise, whose lot it was to
 be obnoxious to fickle fortune, and suffer adversity with few intervals of prosperity! O, worthy man, who
@@ -1507,7 +1507,7 @@ fortified by a number of trees being felled across it. Here then was a sharp eng
 his way through to the open country, with the loss of only one of his followers; Meyler distinguishing
 himself with his usual bravery.
 
-## Chapter XXVII: The description of the earl.
+## Chapter XXVII: The description of the earl
 
 As to the earl's portrait, his complexion was somewhat ruddy, and his skin freckled; he had grey
 eyes, feminine features, a weak voice, and short neck. Far the rest, he was tall in stature, and a man of
@@ -1520,7 +1520,7 @@ personal courage. The post he occupied in battle was a sure rallying point for h
 and firmness in all the vicissitudes of war were remarkable, being neither driven to despair in adversity
 nor puffed up by success.
 
-## Chapter XXVIII: How peace and amity were restored between the king and the earl in the neighbourhood of Gloucester.
+## Chapter XXVIII: How peace and amity were restored between the king and the earl in the neighbourhood of Gloucester
 
 The earl, continuing his march without loss of time, descended into the low country about Wexford,
 where he was met by envoys, who announced to him the calamity which had befallen Fitz-Stephen, and
@@ -1540,7 +1540,7 @@ coast, and all the fortresses; holding the rest of his conquests to him and his 
 This matter being thus settled, the king proceeded on his march towards St. David's, by the road along the
 coast, and coming to Pembroke, quickly assembled a splendid fleet in the port of Milford.
 
-## Chapter XXIX: The defeat of O'Roric at Dublin. King Henry at Pembroke.
+## Chapter XXIX: The defeat of O'Roric at Dublin. King Henry at Pembroke
 
 In the meantime, O'Roric, the one-eyed king of Meath, taking advantage of the absence of the earl,
 and of Raymond, who remained at Waterford, advanced to Dublin about the calends (the 1st) of
@@ -1563,7 +1563,7 @@ the hawk, and striking it on the breast with her talons, laid it dead at the kin
 king used to send every year in the proper season for the young falcons which are bred in the cliffs on the
 coast of South Wales; for in all his land he could not find better or more noble hawks.
 
-## Chapter XXX: The arrival of the king of England.
+## Chapter XXX: The arrival of the king of England
 
 The preparations for his great enterprise detaining the king for some time in the district of Menevia,[^58]
 he went to the church of St. David's, and having paid his devotions with all due solemnity, when the
@@ -1575,7 +1575,7 @@ of our Lord 1172; when Alexander III. was pope, Frederic emperor, and Louis king
 
 <!-- 35 -->
 
-## Chapter XXXI: How Fitz-Stephen was released at Waterford, and the princes of the west of Ireland made their voluntary submission.
+## Chapter XXXI: How Fitz-Stephen was released at Waterford, and the princes of the west of Ireland made their voluntary submission
 
 While the king was resting a few days at Waterford,[^60]
 the men of Wexford, to court his favour,
@@ -1602,7 +1602,7 @@ and pitying his case, at the intercession of some persons of rank about his cour
 pardoned him, and freely restored him to his former state and liberty, reserving to himself only the town of
 Wexford with the lands adjoining.
 
-## Chapter XXXII: How the princes of the north of Ireland, and Roderic of Connaught, made voluntary submission at Dublin.
+## Chapter XXXII: How the princes of the north of Ireland, and Roderic of Connaught, made voluntary submission at Dublin
 
 After these occurrences, the king, leaving Robert Fitz-Bernard with a garrison at Waterford, moved
 his army towards Dublin, through Ossory. Making some stay on the road, the chief men of those parts
@@ -1632,7 +1632,7 @@ learnt to eat cranes which were served up, a food they before loathed. It was at
 laid violent hands on the trees planted by the hands of the saints in old times round the cemetery at
 Finglass, and were carried off by a new sort of pestilence, as I have related in my Topography.[^64]
 
-## Chapter XXXIII: The synod of Cashel.
+## Chapter XXXIII: The synod of Cashel
 
 The king having now silenced all opposition by his presence, and the island enjoying peace and
 tranquillity, he was the more inflamed with zeal to advance the honour of the church of God and the
@@ -1645,7 +1645,7 @@ churches, and the duty of frequenting them. These constitutions the king promulg
 of bringing the church of Ireland in all respects into conformity with the English church; and I have
 considered it not out of place to insert them here, verbatim, as they were published.
 
-## Chapter XXXIV: The constitutions of the synod of Cashel.
+## Chapter XXXIV: The constitutions of the synod of Cashel
 
 In the year of our Lord 1172, being the first year in which the most illustrious Henry, king of England
 and conqueror of Ireland, obtained the dominion of that island; Christian, bishop of Lismore and legate of
@@ -1704,7 +1704,7 @@ but he afterwards came to Dublin and gave his assent to the royal will in all th
 as he was commonly esteemed, had a white cow, and took no other nourishment than this cow's milk, and
 therefore wherever he went she was taken with him.
 
-## Chapter XXXV: A tempestuous winter.
+## Chapter XXXV: A tempestuous winter
 
 The winds raged so furiously, the sea was so rough, and storms succeeded each other with so much
 violence, that during the whole winter scarcely a single ship made her passage over to the island, and no
@@ -1728,7 +1728,7 @@ beyond the sea. Under these circumstances he formed his household of the best me
 parts, such as Raymond, Milo de Cogan, William Mascarel, and some others whom he drew about him, in
 order to strengthen his own and weaken the earl's party.
 
-## Chapter XXXVI: A conspiracy against the king. Legates arrive from the court of Rome.
+## Chapter XXXVI: A conspiracy against the king. Legates arrive from the court of Rome
 
 After the middle of Lent, the wind changing at last to the east, ships arrived both from England and
 the coast of Aquitaine, bringing ill news of deep importance. For two cardinals, by name Albert and
@@ -1753,7 +1753,7 @@ securing its submission, and to establish peace and good order throughout the co
 therefore, to send some of his trusty servants to England; and then he turned his thoughts and took
 deliberate counsel as to what was to be done for the security of Ireland.
 
-## Chapter XXXVII: Of the king's return, by way of St. David's, and the Lechlawar, or speaking-stone.
+## Chapter XXXVII: Of the king's return, by way of St. David's, and the Lechlawar, or speaking-stone
 
 Before he left Ireland, the king appointed these following to be constables or governors of cities and
 strongholds; namely, in Dublin, Hugh de Lacy, to whom he had granted Meath, to be held in fee, and who
@@ -1807,7 +1807,7 @@ numerous priests attached to the church who had fasted to that hour, and who see
 reserved for the occasion by Divine Providence, the king, after he had supped, went on to the castle of
 Haverford, about twelve miles distant.
 
-## Chapter XXXVIII: Terms are speedily made with the pope's legates and the king of France.
+## Chapter XXXVIII: Terms are speedily made with the pope's legates and the king of France
 
 The king, in returning to England out of Wales, took the road on the sea coast by which he had
 journeyed thither, and going on board ship in great haste, and crossing over to Normandy, showed his
@@ -1824,7 +1824,7 @@ other great and powerful men for the archbishop's safety when he was about to re
 <!-- 40 --> peace, so wonderfully brought about, the wicked and clandestine plot of the king's sons and their
 confederates was defeated until the year following.
 
-## Chapter XXXIX: Of the vision, or rather, the visitation, which the king had at Cardiff.
+## Chapter XXXIX: Of the vision, or rather, the visitation, which the king had at Cardiff
 
 Before we proceed further, it may not be superfluous or unprofitable to relate in this place what
 happened to the king on his return from Ireland by the sea coast of South Wales. On the Saturday in Easter
@@ -1872,7 +1872,7 @@ mind and hard heart had not despised these monitions, but that he had received t
 corrected his misdeeds, to his endless happiness. On this subject I propose to enlarge, with God's
 permission, in the book I have so often promised to write concerning the "Instruction of a Prince."[^71]
 
-## Chapter XL: The treason and death of O'Roric.
+## Chapter XL: The treason and death of O'Roric
 
 Meanwhile, Ireland enjoyed tranquillity and peace under the governors to whom the custody of the
 realm was committed. However, some dispute arising between Hugh de Lacy and O'Roric, the one-eyed
@@ -1920,7 +1920,7 @@ confusion and scattered themselves over the open country, till they reached the 
 English pursuing them without respite, and making great slaughter amongst them. Ralph, Fitz-Stephen's
 son, a young and valiant soldier, much distinguished himself in this skirmish.
 
-## Chapter XLI: Concerning visions.
+## Chapter XLI: Concerning visions
 
 As there are many different opinions concerning visions, it may not be amiss on this occasion to
 introduce some true and authentic accounts of them which have been handed down to us. Valerius
@@ -1974,7 +1974,7 @@ idle tales. But of visions, such as those which are wont to be revealed by angel
 prophecy, the case is very different, for we know the events following them prove their truth on undoubted
 authority.
 
-## Chapter XLII: A description of Maurice Fitzgerald.
+## Chapter XLII: A description of Maurice Fitzgerald
 
 This Maurice was a man of dignified aspect and modest bearing, of a ruddy complexion and good
 features. He was of the middle height, neither tall nor short. In him, both in person and temper, moderation
@@ -1988,7 +1988,7 @@ run headlong into danger, and though prudent in making attacks was resolute in d
 modest, chaste, constant, firm, and faithful; a man not altogether without fault, but not stained by any
 great and notorious crime.
 
-## Chapter XLIII: The first dissension between the king and his sons.
+## Chapter XLIII: The first dissension between the king and his sons
 
 In the month of April following, the younger king of England, I mean Henry, son of king Henry,[^78]
 being no longer able to conceal the wickedness he had long devised against his father through evil
@@ -2006,7 +2006,7 @@ Wexford, with the castle of Ginkel.
 
 <!-- 44 -->
 
-## Chapter XLIV: The victories of Henry II, king of England.
+## Chapter XLIV: The victories of Henry II, king of England
 
 The king had to wage, during two years, worse than civil wars, both in England and Aquitaine,[^79]
 at
@@ -2040,7 +2040,7 @@ victory he did not forget clemency, nor moderation in adversity. Then, after all
 of this two years' war, endured to no purpose, his sons submitted and came back, having made professions
 of amity, which turned out to be false.
 
-## Chapter XLV: A description of Henry II., king of England.
+## Chapter XLV: A description of Henry II., king of England
 
 It were not amiss in this place to draw the portrait of the king, that so his person as well as his
 character may be familiar to posterity; and those who in future ages shall hear and read of his great
@@ -2149,7 +2149,7 @@ from which we have digressed.
 
 <!-- 47 -->
 
-# Book II.
+# Book II
 
 Thus far I have continued my history in as perfect and full order as I could, omitting nothing worthy
 of memory which the series of events appeared to require. But being much occupied by the general
@@ -2170,7 +2170,7 @@ complete the present work in the midst of the preparations for a vast enterprise
 thought and mature consideration, as if I were on a journey; and like the traveller who, setting out slowly,
 hurries forward to make up for the delay.
 
-## Chapter I: How earl Richard was sent back to Ireland as chief governor, and the command of the troops given to Raymond.
+## Chapter I: How earl Richard was sent back to Ireland as chief governor, and the command of the troops given to Raymond
 
 On his return to Ireland, the people there having heard of the great troubles in parts beyond the sea,
 and being a race constant only in inconstancy, to be reckoned upon for nothing but their instability, and
@@ -2181,7 +2181,7 @@ constable, not being able to subsist by plunder as they were wont, came in a bod
 declared that unless Raymond was appointed their commander they would at once quit his service, and
 either return to England, or, what was worse, desert to the enemy.
 
-## Chapter II: How Raymond was again appointed commander of the earl's own troops.
+## Chapter II: How Raymond was again appointed commander of the earl's own troops
 
 In this emergency, Raymond was appointed to the command, and the troops recovering their spirits,
 made an incursion into the district of Ophelan,[^83]
@@ -2212,7 +2212,7 @@ sword, and charging the band, boldly cut his way through them, chopping here a h
 besides hewing through heads and shoulders, and thus rejoined his friends on the plain unhurt, though he
 brought away three Irish spears stuck in his horse, and two in his shield.
 
-## Chapter III: The slaughter of the men of Dublin at Ossory.
+## Chapter III: The slaughter of the men of Dublin at Ossory
 
 After these events, the troops being flushed with success both by sea and land, Raymond crossed the
 sea and returned to Wales in consequence of tidings he received of the death of his noble father, William
@@ -2230,7 +2230,7 @@ Roderic of Connaught crossed the river Shannon, and invaded Meath, at the head o
 and, finding all the strongholds evacuated as far as the confines of Dublin, he burnt and levelled them to
 the ground.
 
-## Chapter IV: How Raymond was recalled to Ireland, and married Basilia.
+## Chapter IV: How Raymond was recalled to Ireland, and married Basilia
 
 The earl finding himself in great straits, after taking counsel, as his last refuge, despatched a letter to
 Raymond, in Wales, of the following purport: "As soon as you have read this letter, make all the haste you
@@ -2267,7 +2267,7 @@ of Trim and Dunluce in Meath, which had been razed to the ground, and abandoned 
 governor thereof, having been repaired by Raymond, and put into a better condition, the island enjoyed
 peace for a time, in consequence of the terror struck by his successes.
 
-## Chapter V: Intermarriages among the families from Wales, and territorial grants.
+## Chapter V: Intermarriages among the families from Wales, and territorial grants
 
 Hervey, being envious of the increase of Raymond's glory and his continued prosperity, and unable
 to wreak his malice on him openly, sought how he might injure him in the dark. He therefore became a
@@ -2283,7 +2283,7 @@ granted to the two Fitz-Stephens, was now given to the brothers from Hereford.[^
 
 <!-- 50 -->
 
-## Chapter VI: King Henry obtains a papal bull of rights.
+## Chapter VI: King Henry obtains a papal bull of rights
 
 Meanwhile, although the king was detained and much occupied by the wars, in the midst of all he
 was not forgetful of his dominions in Ireland, nor of the decrees made in the synod of Cashel, before
@@ -2335,7 +2335,7 @@ planted and increased, and all that concerns the honour of God and the salvation
 you in like manner; so that you may receive at God's hands the blessed reward of everlasting life, and may
 obtain on earth a glorious name in ages to come."
 
-## Chapter VII: How the king of England has a right to Ireland on five grounds.
+## Chapter VII: How the king of England has a right to Ireland on five grounds
 
 Let, then, the envious and ignorant cease their cavillings that the kings of England have no right or
 title to Ireland; and let them learn that they can avouch and defend their right in five manner of ways, two
@@ -2358,7 +2358,7 @@ free to be broken. Finally, we have the authority of the Pope, the prince and pr
 who claims a sort of especial right in all islands whatsoever; and that is enough to complete the title and
 give it absolute confirmation.[^95]
 
-## Chapter VIII: The noble assault and taking of Limerick.
+## Chapter VIII: The noble assault and taking of Limerick
 
 In the meantime, Duvenald prince of Limerick, having waxed very insolent, and faithlessly
 withdrawn from his fealty to the king of England, Raymond assembled a strong force of one hundred and
@@ -2411,7 +2411,7 @@ Tuesday, and also recovered on a Tuesday, so Waterford, Wexford, and Dublin, wer
 Tuesdays. And this did not happen by design, but by mere chance; nor can it be wondered or thought
 unreasonable, that martial affairs should be brought to a point on the day of Mars [Tuesday].
 
-## Chapter IX: Description of Raymond.
+## Chapter IX: Description of Raymond
 
 Raymond was very stout,[^97]
 and a little above the middle height; his hair was yellow and curly, and he
@@ -2428,7 +2428,7 @@ promote the welfare of his men than of commanding them, he was their servant rat
 To sum up his excellencies in few words, he was a liberal, kind, and circumspect man; and although a
 daring soldier and consummate general, even in military affairs prudence was his highest quality.
 
-## Chapter X: Description of Meyler.
+## Chapter X: Description of Meyler
 
 In person, Meyler was of a dark complexion, with black eyes, and a stern and piercing look. Below
 the middle height, for his size he was a man of great strength. Broad-chested and not corpulent, his arms
@@ -2483,7 +2483,7 @@ these statements, he asserted that Raymond had levied troops in the manner of th
 confederated with him to effect his purpose. Raymond had also made his whole army swear to bring all
 their plunder into a common stock, and divide it fairly among themselves, reserving the prince's share.
 
-## Chapter XI: Description of Hervey.
+## Chapter XI: Description of Hervey
 
 Hervey was a tall and handsome man, with grey and rather prominent eyes, a pleasant look, fine
 features, and a command of polished language. His neck was so long and slender that it seemed scarcely
@@ -2508,7 +2508,7 @@ rendered, as soon as the winter was passed, sent over to Ireland four commission
 Osbert de Herlotera, William de Bendenges, and Adam de Yarmouth, two of whom returned with
 Raymond, who was recalled to England, and the other two remained with the earl.
 
-## Chapter XII: Relief of the royal garrison in Limerick.
+## Chapter XII: Relief of the royal garrison in Limerick
 
 Raymond having made all preparations for his departure, while he was only waiting for a favourable
 wind, messengers arrived from the garrison in Limerick with the intelligence that Duvenald prince of
@@ -2525,7 +2525,7 @@ Cashel, Raymond learnt that the prince of Thomond had raised the siege, and post
 Cashel, where he intended to attack them, having added to the natural strength of the position by felling
 trees and digging trenches, and by throwing a very strong rampart across the road.
 
-## Chapter XIII: The speech of Duvenald prince of Ossory.
+## Chapter XIII: The speech of Duvenald prince of Ossory
 
 Raymond had formed his army in three divisions, and, when they drew near the pass, Duvenald
 prince of Ossory, being a mortal enemy to the Thomond people, and observing how few in number were
@@ -2568,7 +2568,7 @@ death from the very dungeon in which his son immured him.
 
 <!-- 56 -->
 
-## Chapter XIV: The death of earl Strongbow is announced to Raymond.
+## Chapter XIV: The death of earl Strongbow is announced to Raymond
 
 While these things were doing in Desmond, there came a messenger in haste from Dublin, who
 brought Raymond a letter from his wife, Basilia, of the contents of which he was not apprized. It was
@@ -2608,7 +2608,7 @@ been kept unburied until Raymond's arrival, was entombed in the church of the Ho
 by the appointment of Laurence, the archbishop of that see, who performed the obsequies with great
 ceremony.[^101]
 
-## Chapter XV: How Fitz-Aldelm was sent over as governor of Ireland.
+## Chapter XV: How Fitz-Aldelm was sent over as governor of Ireland
 
 Upon the occurrence of these events, the change of circumstances requiring new plans, the royal
 commissioners hastened back to England with the first favourable wind, leaving Raymond to act as
@@ -2693,7 +2693,7 @@ king's command for the restoration to the Fitz-Stephens of a cantred of land in 
 nothing to this noble family but remote and barren territories, constantly exposed to danger from the
 inroads of the enemy, on whose country they bordered.
 
-## Chapter XVI: Description of Fitz-Aldelm.
+## Chapter XVI: Description of Fitz-Aldelm
 
 This Fitz-Aldelm[^104]
 was large and corpulent both in stature and shape, but of a reasonable height. He
@@ -2816,7 +2816,7 @@ bridge of Ivor, after his return from England; and in this he came off victoriou
 victory in three engagements, and was unsuccessful in two skirmishes, in which, however, the enemy's
 losses were far greater than his own.
 
-## Chapter XVII: The description of John de Courcy.
+## Chapter XVII: The description of John de Courcy
 
 In person John de Courcy was of a fair complexion, and tall, with bony and muscular limbs, of large
 size, and very strong made, being very powerful, of singular daring, and a bold and brave soldier from his
@@ -2868,7 +2868,7 @@ posted in three bodies in a wood near the river. A severe engagement ensued, uni
 sides; but Milo de Cogan forced his way through, and brought his troops safe to Dublin, having lost only
 three men, though the loss of the enemy was much greater.
 
-## Chapter XVIII: How Fitz-Aldelm was recalled, and Hugh de Lacy appointed governor.
+## Chapter XVIII: How Fitz-Aldelm was recalled, and Hugh de Lacy appointed governor
 
 Fitz-Aldelm was recalled to England, as well as Milo de Cogan and Robert Fitz-Stephen, having done
 nothing worthy of mention during his government, except procuring the miraculous staff called the staff of
@@ -2975,7 +2975,7 @@ the Holy Trinity there, to which he gave in frank-almoin all the churches on his
 Waterford and Wexford. Would to God that with the monastic garb his mind had become pious, and he
 had laid aside his malicious temper as well as his military habits.
 
-## Chapter XIX: How Hugh de Lacy built castles in Ireland.
+## Chapter XIX: How Hugh de Lacy built castles in Ireland
 
 While these events were happening in Desmond, Hugh de Lacy, like a wise and prudent man, was
 building strong castles[^116]
@@ -3016,7 +3016,7 @@ courtesy with which he won the hearts of the Irish people and drew around him th
 deep suspicion arose that his policy was to usurp all power and dominion, and, throwing off his allegiance,
 to be crowned as king of Ireland.
 
-## Chapter XX: A description of Hugh de Lacy.
+## Chapter XX: A description of Hugh de Lacy
 
 If you wish to have a portrait of this great man, know that he had a dark complexion, with black,
 sunken eves, and rather flat nostrils, and that he had a burn on the face from some accident which much
@@ -3040,7 +3040,7 @@ Hugh. About this time the two wonderful miracles described in my Topography occu
 <!-- 66 --> Meath, one which ensued on a woman's being violated in St. Fechin's mill, the other in consequence of
 the oats which were stolen and secreted.[^120]
 
-## Chapter XXI: The arrival of John the constable and Richard de Pec.
+## Chapter XXI: The arrival of John the constable and Richard de Pec
 
 Such being the state of affairs, and the suspicions already mentioned gaining strength continually
 from fresh reports, Hugh de Lacy was recalled, and John, the constable of Chester, and Richard de Pec
@@ -3056,7 +3056,7 @@ province of Lex,[^121]
 a rough and woody country, exposed to the enemy's inroads and far from succour;
 expressly selecting so brave a champion and marcher to defend this border.
 
-## Chapter XXII: How Hugh de Lacy was again sent over as governor.
+## Chapter XXII: How Hugh de Lacy was again sent over as governor
 
 John the Constable and Richard de Pec having been thus employed in the island during the summer,
 they were recalled to England during the ensuing winter, and Hugh de Lacy, being restored to the king's
@@ -3086,7 +3086,7 @@ his father. A few years afterwards, Geoffrey, earl of Britany, a brave soldier a
 <!-- 67 --> worthy peer to Ulysses as well as Achilles, who had now rebelled for the third time against his father, met
 his fate. He died at Paris about the calends (the first) of August.[^124]
 
-## Chapter XXIII: Laurence, archbishop of Dublin, dies at Chateau d'Eu, and is succeeded by John Comyn.
+## Chapter XXIII: Laurence, archbishop of Dublin, dies at Chateau d'Eu, and is succeeded by John Comyn
 
 In the meantime, Laurence, archbishop of Dublin, died at the castle of Eu,[^125]
 in Normandy, on the
@@ -3120,7 +3120,7 @@ warfare with the soldiers of Christ.
 
 <!-- 68 -->
 
-## Chapter XXIV: The arrival in Ireland of John, archbishop of Dublin.
+## Chapter XXIV: The arrival in Ireland of John, archbishop of Dublin
 
 The king of England had long formed the design of transferring to his youngest son, John, all his
 dominion over Ireland, and, having made the people of that country do him homage accordingly, now
@@ -3140,7 +3140,7 @@ with sickness as he left the city; the other at Down, in reference to the fire t
 Hugh Tyrrell had carried off from the clergy at Armagh; both of which are related in the Topography,
 Distinct ii. c. 50.
 
-## Chapter XXV: Arrival of the patriarch Heraclius in England.
+## Chapter XXV: Arrival of the patriarch Heraclius in England
 
 While these events were occurring in Ireland, Heraclius, the venerable patriarch of Jerusalem, came
 to England about the calends (the first) of February, after a long journey from the East to the West. He
@@ -3167,7 +3167,7 @@ received a kingdom above for upholding the rights of Christ's earthly kingdom in
 patrimony of the Almighty King in this day of distress, in this trial of devotion, how securely might he
 have relied on the guardianship of so great a patron and protector, when his own time of need came.
 
-## Chapter XXVI: The king's reply, and the prophetical threats of the patriarch.
+## Chapter XXVI: The king's reply, and the prophetical threats of the patriarch
 
 The king having appointed a day for giving his answer at London,[^133]
 many knights and persons of the
@@ -3262,7 +3262,7 @@ condition, if he had crowned his long course of prosperity with this final succe
 <!-- 71 --> fulfilled that famous prophecy of Merlin Ambrosius: "In the beginning he shall yield to unruly passions,
 but in the end he shall mount to heaven."
 
-## Chapter XXVII: Sudden discord between the kings.
+## Chapter XXVII: Sudden discord between the kings
 
 Notwithstanding, however, this wonderful unanimity, a sudden and unlooked-for discord broke out
 between the kings, and, what was worse, between the earl and his father, through the devices of the old
@@ -3289,7 +3289,7 @@ have been gained not by numbers but by valour, by the virtues of those who won t
 grace, rather than by human power. Cassiodorus says, "A people in arms, without the Lord, is unarmed;"
 and Seneca, "It is not the number of the people, but the valour of a few, which secures the victory."
 
-## Chapter XXVIII: Of the emperor Frederick.
+## Chapter XXVIII: Of the emperor Frederick
 
 Of the four just mentioned, the emperor Frederick, although he was the last of the Cisalpine princes
 who took the cross, yet, with commendable expedition, he was the first in the execution of the
@@ -3297,7 +3297,7 @@ undertaking. I count him the more worthy of the palm of victory in heaven and of
 because he forsook larger dominions and states than the rest, and, unrestrained by the care of his vast
 empire, was resolute in keeping the time appointed for setting out.
 
-## Chapter XXIX: A vision, and the explanation thereof.
+## Chapter XXIX: A vision, and the explanation thereof
 
 I think it not irrelevant that I should relate here a vision, which, during the misery of these times and
 the insults paid to the cross of Christ, He who sometimes maketh known to the simple what he concealeth
@@ -3362,7 +3362,7 @@ hereafter happen, and more especially to the nations engaged in this expedition.
 
 <!-- 73 -->
 
-## Chapter XXX: Of the remarkable events of our times in England.
+## Chapter XXX: Of the remarkable events of our times in England
 
 I think it not irrelevant to introduce, by way of episode, occasion offering, some account of certain
 occurrences and remarkable events which have happened in England within my own memory.[^137]
@@ -3490,7 +3490,7 @@ world is long-patient, desiring the conversion of a sinner rather than his destr
 those who are converted and amend their lives; he pours forth his wrath on the reprobate and impenitent,
 and often begins their punishment in this life.
 
-## Chapter XXXI: The first expedition of John, the king's son, to Ireland.[^142]
+## Chapter XXXI: The first expedition of John, the king's son, to Ireland[^142]
 
 All things necessary for this great expedition having been prepared and made ready by the royal
 commands, John, the king of England's youngest son, on whom the dominion of Ireland had been lately
@@ -3514,7 +3514,7 @@ court in Britany employing the labour of three years on the Topography and of tw
 History; works which will be read by posterity, although they offend men of the present generation; and
 though carped at now, will be acceptable then; and though detested now, will be profitable in future times.
 
-## Chapter XXXII: The commendation of Fitz-Stephen and earl Strongbow; and their defence.
+## Chapter XXXII: The commendation of Fitz-Stephen and earl Strongbow; and their defence
 
 Robert Fitz-Stephen first showed and led the way to the earl, the earl to the king, and the king to his
 son John. Much praise is due to him, who by his bold enterprise made the beginning; much to him who, as
@@ -3531,7 +3531,7 @@ present the other grounds, both new and old, which have been stated in a former 
 from those just mentioned, that the English nation and king did not enter upon this island so unjustly, from
 lack of title, as some unlearned persons dream.
 
-## Chapter XXXIII: Of the delay and impediments to the full and complete conquest of Ireland.
+## Chapter XXXIII: Of the delay and impediments to the full and complete conquest of Ireland
 
 Fortunate would this island have been, and it would long since have been firmly and completely
 subjugated from one end to the other, and brought without difficulty under order and good government,
@@ -3573,7 +3573,7 @@ Patrick, shall on a Sunday night storm a castle built in the woody parts of Ophe
 English shall be driven out of Ireland. These prophecies, however, declare that the whole territory lying on
 the east coast of the island shall for ever remain in the possession of the English.
 
-## Chapter XXXIV: A brief recapitulation of certain events.
+## Chapter XXXIV: A brief recapitulation of certain events
 
 Three castles were built immediately after prince John's first arrival; one at Tibrach, another at
 Archfinan, and the third at Lismore. Likewise, three noble youths were unfortunately killed; Robert de
@@ -3606,7 +3606,7 @@ amiss that I should briefly state why, and from what causes, this first enterpri
 fulfil his expectations; the success not being equal to the vast preparations for it. And this sequel to my
 work, though it cannot remedy what is past, may yet supply some warnings for the future.
 
-## Chapter XXXV: The causes of the disasters. Of the coming to Ireland of John, the king's son.
+## Chapter XXXV: The causes of the disasters. Of the coming to Ireland of John, the king's son
 
 I should say, then, that the first and principal cause of these mischances, was the king's not having
 listened to the solemn call of the patriarch Heraclius, before mentioned, and either gone himself, or at least
@@ -3744,7 +3744,7 @@ treated with suspicion and neglect, and our counsels were only communicated to t
 only were trusted and thought worthy of honour, it came to pass that as the veterans kept aloof, and
 rendered no assistance to those who did not ask for it, the others had little success in all their undertakings,
 
-## Chapter XXXVI: In what manner Ireland is to be completely conquered.
+## Chapter XXXVI: In what manner Ireland is to be completely conquered
 
 It is an old saying, that every man is most to be believed in respect of his own art; and so, as regards
 this expedition, their judgment may be best relied on, who have been longest conversant with the similar
@@ -3794,7 +3794,7 @@ proceeding by degrees to construct them, than to erect a great number at once, i
 great distance from each other, where they would be entirely disconnected, and could afford no mutual aid
 in time of need,
 
-## Chapter XXXVII: How Ireland ought to be governed.
+## Chapter XXXVII: How Ireland ought to be governed
 
 As this people are easily moved to rebel, and are as light-minded as they are light of foot, when they
 have been subjugated and reduced to submission, they will have to be ruled with great discretion. The
