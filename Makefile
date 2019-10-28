@@ -17,7 +17,7 @@ deps := $(src.all) $(cache)/meta.yaml
 
 $(out)/$(book.name).epub: $(deps)
 	$(mkdir)
-	$(pandoc) -t epub3 --epub-chapter-level=2 -p --toc --resource-path=src -c src/common.css -c src/epub.css $(cache)/meta.yaml src/main.md -o $@.tmp
+	$(pandoc) -t epub3 --toc-depth=2 -p --toc --resource-path=src -c src/common.css -c src/epub.css $(cache)/meta.yaml src/main.md -o $@.tmp
 	epub-hyphen $@.tmp -o $@
 	@rm $@.tmp
 
