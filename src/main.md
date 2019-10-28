@@ -1132,7 +1132,7 @@ actuate a noble mind, and gentle feelings revive."
 ## Chapter XV: The speech of Hervey
 
 Raymond having concluded his discourse, which was received by a murmur of applause from the
-people, Hervey ,stood up, and addressing the chiefs, thus began:--"Raymond has discoursed to us very
+people, Hervey stood up, and addressing the chiefs, thus began:--"Raymond has discoursed to us very
 cleverly concerning mercy, and perhaps has shewn us what is passing in his mind in well-set phrases; as if
 a foreign land was to be subdued by merciful deeds rather than by fire and sword. Was that the way by
 which Julius Cæsar and Alexander of Macedon conquered the world? Did the nations voluntarily flock
@@ -1140,8 +1140,7 @@ together from all parts to such spectacles of mercy, or were they not rather com
 yoke by force of arms and the terrors of cruelty? While people are yet proud and rebellious, they must be
 subdued by all manner of means, without regard to feelings of pity; but when they have submitted, and are
 ready to obey, then they may be treated with all kindness, so that due order be taken for their government.
-
-In this case mercy may be shewn, in the other cruelty; in the one there is room for pity-the other only
+In this case mercy may be shewn, in the other cruelty; in the one there is room for pity--the other only
 admits of severity. Raymond argues with wonderful mildness, as if we had already subjugated these
 nations, and we had only to do with treating them kindly, or as if our enemies were so few, that, with such
 valour as ours, it matters not that we augment their numbers, whereas the whole population of Ireland are
@@ -1166,6 +1165,7 @@ must either resolutely accomplish what we have undertaken, and stifling all emot
 subjugate this rebellious nation by the strong hand and the power of our arms, or yielding to indulging in
 deeds of mercy, as Raymond proposes, set sail homewards, and leave both the country and patrimony to
 this miserable people."
+
 Hervey's opinion was approved by his comrades, and the wretched captives, as men condemned, had
 their limbs broken, and were cast headlong into the sea, and drowned.
 <!-- 26 -->
