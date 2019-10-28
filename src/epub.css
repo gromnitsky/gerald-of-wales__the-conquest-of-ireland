@@ -1,14 +1,19 @@
-/* pandoc TOC noncence */
+/* TOC noncence */
 
-nav > ol.toc {
+nav#toc ol,
+nav#landmarks ol {
+  padding-left: 1.3em;
+}
+
+nav#toc ol li,
+nav#landmarks ol li {
+  list-style-type: circle;
+  margin: 0;
   padding: 0;
 }
 
-nav > ol.toc > li {
-  list-style-type: none;
-}
-
-ol.toc li {
+nav#toc > ol > li,
+nav#landmarks > ol > li {
   list-style-type: disc;
 }
 
@@ -28,29 +33,28 @@ blockquote > p:not([class]) + p:not([class]) {
   margin: 1em 0;
 }
 
-/* title rubbish */
-
-p.author {
-  margin: 1em 0;
-  text-indent: 0
-}
+/* titlepage rubbish */
 
 p.author::before {
   content: "Author: ";
 }
 
-p.publisher {
-  display: none;
+p.publisher::before {
+  content: "Publisher: ";
 }
 
 div.rights::before {
   content: "License: ";
 }
 
-/* footnotes */
+/* images */
 
-a.footnote-ref {
-  vertical-align: super;
+figure,
+figure img,
+figcaption {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #pedigree figure img {
@@ -63,8 +67,40 @@ a.footnote-ref {
   width: 80%;
 }
 
-figure, figure img, figcaption {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+/* chunks from the pandoc epub.css */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-align: left;
+}
+
+a.footnote-ref {
+  vertical-align: super;
+}
+
+span.smallcaps {
+  font-variant: small-caps;
+}
+
+span.underline {
+  text-decoration: underline;
+}
+
+q {
+  quotes: "“" "”" "‘" "’";
+}
+
+div.column {
+  display: inline-block;
+  vertical-align: top;
+  width: 50%;
+}
+
+div.hanging-indent {
+  margin-left: 1.5em;
+  text-indent: -1.5em;
 }
