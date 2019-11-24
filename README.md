@@ -8,6 +8,7 @@ of Wales).
 
 * Ruby
 * pandoc 2.7.3+
+* `npm -g i epub-hyphen`
 * kindlegen (mobi output only)
 
 ## Compilation
@@ -24,4 +25,4 @@ The result should be in `_out` dir.
 
 ## License
 
-`data/in-parentheses.txt` file is public domain, MIT for everything else.
+`data-raw/in-parentheses.txt` file is public domain, MIT for everything else.

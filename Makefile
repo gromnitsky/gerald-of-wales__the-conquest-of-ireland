@@ -6,32 +6,33 @@ pandoc := pandoc
 
 all: html epub
 
-src.all := $(filter-out %.yaml, $(wildcard src/*))
-dest.static := $(patsubst src/%, $(web)/%, $(filter-out %.md, $(src.all)))
+src.all := $(filter-out %.yaml, $(wildcard web/*))
+dest.static := $(patsubst web/%, $(web)/%, $(filter-out %.md, $(src.all)))
 
 html: $(web)/index.html $(dest.static)
 epub: $(out)/$(book.name).epub
 mobi: $(out)/$(book.name).mobi
 
-deps := $(src.all) $(cache)/meta.yaml
+web.deps := $(src.all) $(cache)/meta.yaml
+epub.deps := $(web.deps) $(wildcard epub/*)
 
-$(out)/$(book.name).epub: $(deps)
+$(out)/$(book.name).epub: $(epub.deps)
 	$(mkdir)
-	$(pandoc) -t epub3 --toc-depth=2 -p --toc --resource-path=src -c src/common.css -c src/epub.css $(cache)/meta.yaml src/main.md -o $@.tmp
+	$(pandoc) -t epub3 --toc-depth=2 -p --toc --resource-path=web -c web/common.css -c epub/epub.css $(cache)/meta.yaml web/main.md -o $@.tmp
 	epub-hyphen $@.tmp -o $@
 	@rm $@.tmp
 
 $(out)/$(book.name).mobi: $(out)/$(book.name).epub
 	cd $(dir $<) && kindlegen $(notdir $<) -o $(notdir $@)
 
-$(web)/index.html: $(deps)
+$(web)/index.html: $(web.deps)
 	$(mkdir)
-	$(pandoc) -s -p --toc -c common.css -c web.css $(cache)/meta.yaml src/main.md -o $@
+	$(pandoc) -s -p --toc -c common.css -c web.css $(cache)/meta.yaml web/main.md -o $@
 
-$(dest.static): $(web)/%: src/%
+$(dest.static): $(web)/%: web/%
 	$(copy)
 
-$(cache)/meta.yaml: src/meta.yaml
+$(cache)/meta.yaml: web/meta.yaml
 	$(mkdir)
 	erb -r date $< > $@
 

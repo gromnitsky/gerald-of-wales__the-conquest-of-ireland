@@ -14,5 +14,5 @@ lang: en
 rights: Public domain
 publisher: "https://github.com/gromnitsky"
 date: <%= Date.today %>
-cover-image: data/cover.png
+cover-image: epub/cover.png
 ---
