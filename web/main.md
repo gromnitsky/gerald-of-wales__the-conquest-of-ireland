@@ -53,7 +53,7 @@ bishop. During the few years preceding, the first conquest of Ireland
 had taken place. King Henry, visiting the borders of Wales in 1184,
 became acquainted with Giraldus, and, admiring his earning, took him
 to court. He employed him on several occasions in diplomatic
-negociations with the Welsh, made aim one of his chaplains, appointed
+negociations with the Welsh, made him one of his chaplains, appointed
 him preceptor to his son, prince John, and, in 1185, sent him with the
 young prince to Ireland, in the quality of secretary.
 
@@ -84,7 +84,7 @@ Jerusalem by Saladin, and all Western Europe was thrown into a state
 of great excitement. Preparations were made on every side for a new
 crusade ; and Henry II., though too prudent a monarch to be led away
 by the enthusiasm to which it gave rise, could not avoid seeming to
-encourage it.  He accordingly proclaimed the crusade and Baldwin, ;
+encourage it.  He accordingly proclaimed the crusade and Baldwin,
 archbishop of Canterbury, was sent to preach it in Wales.  Giraldus
 was appointed to accompany the archbishop, in which there was no doubt
 a stroke of policy ; for our author was then known throughout Wales as
@@ -328,10 +328,10 @@ as ever. Thus the Indians set little value on their commodities, which when brou
 admiration. Hence Augustine, when speaking of the gospel, where water was changed into wine, saith:
 "Marvellous is the power of God in the creation and government of the heaven and the earth, and in the
 daily conversion of the water, which the vines imbibe from rain, into wine, and in the growth of corn and
-trees from a grain of seed; and yet, because these are natural occurrences, we make no account of them.
-
-Wherefore God hath reserved to himself some things out of the common course of nature, though they be
+trees from a grain of seed; and yet, because these are natural
+occurrences, we make no account of them. Wherefore God hath reserved to himself some things out of the common course of nature, though they be
 of less importance, in order to bring to the memory the power which he exercises on a larger scale."
+
 Let, then, my detractor see and acknowledge that the Lord of nature Hath purposedly done many
 things before the eyes of man contrary to the common course of nature, in order that it may be very
 evident that God's power far exceedeth man's knowledge, and His divinity surpasseth man's
@@ -553,7 +553,7 @@ written in Latin, are understood by only a very few persons, I have reaped some 
 sermons; but you, addressing yourself to princes, who were, doubtless, both learned and liberal, but are
 now out of date, and have passed from the world, have not been able to secure any sort of reward for your
 excellent works, which so richly merited it." It is true, indeed, that my best years, and the prime of my
-life,have been spent without any remuneration or advancement arising out of my literary labours, and I am
+life, have been spent without any remuneration or advancement arising out of my literary labours, and I am
 now growing old, and standing, as it were, on the threshold of death; but I neither ask, nor expect, worldly
 recompense from any one. My only desire is, and it is all I ought to desire, that, first, and above all, I may
 partake of the divine mercy vouchsafed to me by Him who giveth all things freely, through good works;
@@ -691,7 +691,7 @@ All these forces having
 disembarked on the island of the Banne, and finding themselves in a position far from secure, the news of
 their landing having been spread abroad, they sent messengers to Dermitius, apprizing him of their arrival.
 
-Meanwhile,some of the people who dwelt on the coast, although they had deserted Dermitius when
+Meanwhile, some of the people who dwelt on the coast, although they had deserted Dermitius when
 fortune frowned upon him, when the changed her aspect flocked together to support him; according to the
 words of the poet:
 
@@ -802,7 +802,7 @@ is the bravest man,
 > Who to the rescue springs, when dangers press,\
 > And stoutly wards them off.
 
-This Robert de Barri was the first man-at arms who was struck down and wounded in this invasion of
+This Robert de Barri was the first man-at-arms who was struck down and wounded in this invasion of
 Ireland.
 
 <!-- 18 -->
@@ -988,8 +988,7 @@ fire and sword; so that at length the townsmen sued for peace, and gave security
 allegiance to their prince in time to come, and paying him due homage and service.
 
 Meanwhile, quarrels having broken out between Roderic of Connaught and Duvenald of Limerick, as
-soon as Roderic with his troops made an irruption on the borders of Limerick, Dermitius despatched Fitz-
-Stephen and his followers to the relief of Duvenald, who was his son-in-law. Duvenald thus supported,
+soon as Roderic with his troops made an irruption on the borders of Limerick, Dermitius despatched Fitz-Stephen and his followers to the relief of Duvenald, who was his son-in-law. Duvenald thus supported,
 after several battles, in all of which he was victorious, compelled Roderic to retreat with disgrace into his
 own territories, and freed himself altogether from any acknowledgment of his supremacy. In this
 expedition, as in all others, Meyler and Robert de Barri distinguished themselves by their extraordinary
@@ -1033,8 +1032,7 @@ not delayed, and the sooner, the better welcome. The wound in our regards which 
 by neglect will be healed by your presence; for friendship is secured by good offices, and grows by
 benefits to greater strength."
 
-Earl Richard having heard these tidings, and, after taking much counsel, being encouraged by Fitz-
-Stephen's success, of which he had been at first doubtful, resolved on pursuing the same course as the
+Earl Richard having heard these tidings, and, after taking much counsel, being encouraged by Fitz-Stephen's success, of which he had been at first doubtful, resolved on pursuing the same course as the
 others had done; and, bending every effort towards one object, on which his most earnest desire was set,
 he made all kinds of preparations for the conquest of Ireland. This earl was descended from a very noble
 stock,[^35]
@@ -1090,7 +1088,7 @@ and despair. It was a thing unheard-of in those parts that so great a slaughter 
 band. But the English abused their good fortune by evil and detestable counsels and inhuman cruelty; for
 having gained the victory, they kept seventy of the principal townsmen prisoners in the camp, for whose
 ransom they might have obtained the city itself or an immense sum of money. Hervey de Montmaurice,
-who with three men-at arms had joined them on their first landing, and Raymond, took opposite sides of
+who with three men-at-arms had joined them on their first landing, and Raymond, took opposite sides of
 the question during the deliberations.
 
 ## Chapter XIV: Raymond's speech
@@ -1237,13 +1235,6 @@ he had reduced Connaught to subjection, which he claimed as his ancient inherita
 the monarchy of the whole of Ireland. Roderic was so indignant at this reply, that he caused the son of
 Dermitius, who had been delivered to him for an hostage (as mentioned before, chap. 10), to be put to
 death.
-probably as their paramount prince, though the Ostmen of Dublin were in some degree independent. But his patriotic zeal
-afterwards induced him to join the league of the native princes against the rising power of the Anglo or Cambro-Normans, and
-even to head one body of the forces which laid siege to Dublin. Finding, however, that resistance to the English power was
-hopeless, and perhaps hoping that the reform and advancement of the church, to which Henry was pledged, would be carried into
-effect, he submitted to the English king. Notwithstanding this, we find in the sequel of the History (B. ii. c. 23), that his patriotic
-conduct at the council of Lateran, towards the close of his life, gave umbrage to Henry, and that in consequence he found a grave
-in a foreign land.
 <!-- 28 -->
 
 ## Chapter XVIII: The synod of Armagh
@@ -1282,7 +1273,7 @@ to your gracious favour, and I shall hold them at your free disposal."
 ## Chapter XX: The martyrdom of St. Thomas
 
 Raymond pursuing his journey and having arrived at court with the earl's letter, the king received
-him with great cold ness, and being as usual much occupied with business, deferred his reply.
+him with great coldness, and being as usual much occupied with business, deferred his reply.
 
 About that time, Thomas, archbishop of Canterbury, in England, perished by the hands of impious
 men, to the dismay of the great men of the realm, both lay and clerical; after having undergone the
@@ -1351,8 +1342,7 @@ Liffy with sixty ships full of Norwegians and men of the isles,[^50]
 and burning with revenge for his former
 discomfiture. Landing from their ships, in all haste, they sat down before the east gate of the city, prepared
 to assault it. They were under the command of John the Woode, or John the Mad, for such is the
-signification of the word, and were all warriors, armed in the Danish fashion, some having long breast-
-plates, and others shirts of mail; their shields were round, and coloured red,[^51]
+signification of the word, and were all warriors, armed in the Danish fashion, some having long breastplates, and others shirts of mail; their shields were round, and coloured red,[^51]
 and were bound about with
 iron. They were iron-hearted as well as iron-armed men.
 
@@ -1415,8 +1405,7 @@ the wheel is turned, and we are in a low estate. Such is the mutability of human
 always chequered by adverse circumstances. After the day comes night, and when the night is spent the
 day returns again. We, whose triumphs had gained us such abundance of everything that a successful
 fortune could bestow, are now beleaguered by the enemy on all sides, both by sea and land, and our
-provisions have failed. We get no supplies by sea, which is commanded by the enemy's fleet. Fitz-
-Stephen, likewise, whose valour and noble enterprise opened to us the way into this island, is shut up in a
+provisions have failed. We get no supplies by sea, which is commanded by the enemy's fleet. Fitz-Stephen, likewise, whose valour and noble enterprise opened to us the way into this island, is shut up in a
 sorry fortress, which is strictly watched by a hostile people. What then do we look for? Is it succour from
 our own country that we expect? Nay, such is our lot, that what the Irish are to the English, we too, being
 now considered as Irish, are the same. The one island does not hold us in greater detestation than the
@@ -1614,8 +1603,7 @@ Thus did all the princes of
 Ireland, except those of Ulster, severally make their submission for themselves; and thus, also, in the
 person of Roderic, prince of Connaught, and the titular head of the Irish and monarch of the whole island,
 <!-- 36 --> they, all became vassals to the king of England. Indeed, there was scarcely any one of name or rank in the
-island, who did not, either in person or otherwise, pay to the king's majesty the homage due from a liege-
-man to his lord.
+island, who did not, either in person or otherwise, pay to the king's majesty the homage due from a liegeman to his lord.
 
 Then was fulfilled that ancient and well-known prophecy of Merlinus Ambrosius (I do not vouch for
 its authenticity):--"The sixth shall overthrow the walls of Ireland;" and another prediction of the same
@@ -1663,7 +1651,7 @@ and kinsfolk, and contract and adhere to lawful marriages.
 fonts in the baptisteries of the churches.
 
 *Third*. That all good Christians do pay the tithes of beasts, corn, and other produce, to the church of
-the parish in which they live
+the parish in which they live.
 
 <!-- 37 --> *Fourth*. That all the lands and possessions of the church be entirely free from all exactions of secular
 men; and especially, that neither the petty kings (reguli), nor earls, or other great men in Ireland, nor their
@@ -1872,7 +1860,7 @@ both sides by their solemn oaths, they came to the parley. It had been stipulate
 should be present on each part, and those in equal numbers, and unarmed, except with their swords on the
 one side and their battle-axes on the other, while the rest of the people remained at some little distance.
 Meanwhile Griffyth, who had come to the parley in company with Maurice, and was full of anxiety in
-consequence d his dream, had selected seven of his kinsmen, in whose courage he had the strongest
+consequence of his dream, had selected seven of his kinsmen, in whose courage he had the strongest
 confidence, and drew them apart to one side of the hill, but as near as they were allowed to the place of
 conference. They then took their shields in hand, and putting their lances in rest, made show of being
 engaged in tilting according to the French fashion, in order that, however the parley ended, they might be
@@ -2031,7 +2019,7 @@ herein we crave pardon for speaking the exact truth, for without it, history not
 does not even merit the name. It is the business of art to copy nature, and the painter is not to be trusted
 who exaggerates graces and conceals blemishes.
 
-No man in deed is born without faults, but he is best who has the least; and the wise will think that
+No man indeed is born without faults, but he is best who has the least; and the wise will think that
 nothing which concerns mankind is devoid of interest. There is no certainty in worldly matters, and no
 <!-- 45 --> perfect happiness; good is mixed with evil, and virtue with vice. Wherefore, if things spoken in
 commendation of a man's disposition or conduct are pleasant to the ear, it should not be taken amiss if his
@@ -2183,7 +2171,8 @@ force; Raymond thus took four thousand head of cattle, and brought them with him
 the same time, the Irish of those parts, lurking at the entrance of the woods, drove off some few of the
 cattle from the level country about Waterford into the thickets at no great distance; but an alarm being
 raised in the town, the garrison sallied forth, and Meyler, conspicuous for his headlong valour, followed
-only by a single horseman, pursued the robbers into the outskirts of the wood. Then, however,he intended
+only by a single horseman, pursued the robbers into the outskirts of
+the wood. Then, however, he intended
 to retreat, but urged by the impetuosity of his follower, a rash youth, he dashed after the robbers into the
 deepest thickets; but the Irish rushed out of the wood, and severely wounding his companion, cut him to
 pieces with their broad-axes. Meyler, thus left alone, and surrounded by the enemy on every side, drew his
@@ -2394,7 +2383,7 @@ unreasonable, that martial affairs should be brought to a point on the day of Ma
 Raymond was very stout,[^97]
 and a little above the middle height; his hair was yellow and curly, and he
 had large, grey round eyes. His nose was rather prominent, his countenance high-coloured, cheerful, and
-pleasant; and, although he was somewhat corpulent, e was so lively and active, that the incumbrance was
+pleasant; and, although he was somewhat corpulent, he was so lively and active, that the incumbrance was
 not a blemish or inconvenience. Such was his care of his troops that he passed whole nights without sleep,
 going the rounds of the guards himself, and challenging the sentinels to keep them on the alert. Through
 <!-- 53 --> this constant watchfulness he had the good fortune of never, or very seldom, having the troops he
@@ -2449,8 +2438,7 @@ innate valour, would of itself have been equal to the conquest of a kingdom, had
 succeeded in lowering its high estate.
 
 <!-- 54 --> Raymond spent a short time at Limerick in well-ordering the state of the city, and having stored it
-with provisions collected from all the country round, he placed there a garrison consisting of fifty men-at-
-arms, two hundred horsemen, and as many archers, under the command of Milo of St. David's[^98]
+with provisions collected from all the country round, he placed there a garrison consisting of fifty men-at-arms, two hundred horsemen, and as many archers, under the command of Milo of St. David's[^98]
 his
 cousin; and then returned triumphant into Leinster, without losing any of his troops. But as virtue is ever
 exposed to the shafts of envy, Hervey de Montmaurice, who, notwithstanding his new relationship, was
@@ -2540,7 +2528,7 @@ England, acknowledging him as his lord, and doing fealty to him. He also promise
 reward, and pay for his troops. Raymond, attracted by mingled prospects of lucre and glory, lost no time,
 after consulting his friends, in marching his victorious army to Cork. In this expedition he took much
 booty, and not only had abundant supplies for his own troops, so that they wanted nothing, but was able to
-send some herds of cattle and other provisions to Limerick. Thus, by Ray mond's help, Dermitius
+send some herds of cattle and other provisions to Limerick. Thus, by Raymond's help, Dermitius
 Macarthy recovered the whole of his territories, at a time when his son Cormac had treacherously seized
 him and kept him in prison. His father, proving his equal in guile, did not hesitate to compass Cormac's
 death from the very dungeon in which his son immured him.
@@ -2594,11 +2582,9 @@ commissioners hastened back to England with the first favourable wind, leaving R
 lieutenant-governor of Ireland until the royal pleasure was known. On their arrival they informed the king
 of the change of affairs in consequence of the earl's death. Whereupon the king sent over to Ireland
 <!-- 57 --> William Fitz-Aldelm, attended by ten men-at-arms of Fitz-Aldelm's own household, to fill the office of
-lieutenant governor. There were joined in commission with him John de Courcy, who had also ten men-at-
-arms, and Robert Fitz-Stephen and Milo de Cogan,who had distinguished themselves in the worse than
+lieutenant governor. There were joined in commission with him John de Courcy, who had also ten men-at-arms, and Robert Fitz-Stephen and Milo de Cogan, who had distinguished themselves in the worse than
 civil two years' wars, under the banner of the king, both in England and France, and who now took with
-them twenty men-at-arms. Raymond, having heard of their landing, set forth from Dublin with a well-
-appointed body of troops, and meeting them on the confines of Wexford, after offering his
+them twenty men-at-arms. Raymond, having heard of their landing, set forth from Dublin with a well-appointed body of troops, and meeting them on the confines of Wexford, after offering his
 congratulations, and embracing them in a friendly manner, proceeded forthwith to surrender and place in
 the charge of William Fitz-Aldelm, as the king's lieutenant, all the cities, towns, and castles of Ireland,
 and the several hostages which were in his custody.
@@ -2813,8 +2799,7 @@ He married the daughter of Godred king of Man; and after the many conflicts of a
 severe struggles on every side, being raised by his victories to the summit of power, he erected castles
 throughout Ulster in suitable places, and settled the whole country in peace and good order, the fruits of
 his many toils, privations, and perils. One thing, however, is very remarkable, and I cannot forbear
-mentioning it, that four of the main pillars of the English power in the conquest of Ireland, namely, Fitz-
-Stephen, Hervey, Raymond, and John de Courcy, by some mysterious, though doubtless just, dispensation
+mentioning it, that four of the main pillars of the English power in the conquest of Ireland, namely, Fitz-Stephen, Hervey, Raymond, and John de Courcy, by some mysterious, though doubtless just, dispensation
 of Providence, had no lawful issue by their wives. I might add to these a fifth, Meyler, who, although he
 be married, has yet no child by his wife. Having said thus much briefly, and by way of episode,
 concerning John de Courcy, I leave his great deeds to be more fully related by future historians, and now
@@ -2850,8 +2835,7 @@ three men, though the loss of the enemy was much greater.
 
 Fitz-Aldelm was recalled to England, as well as Milo de Cogan and Robert Fitz-Stephen, having done
 nothing worthy of mention during his government, except procuring the miraculous staff called the staff of
-Jesus, to be transferred from Armagh to Dublin. King Henry then appointed Hugh de Lacy governor-
-general of Ireland, joining in commission with him Robert Poer[^109]
+Jesus, to be transferred from Armagh to Dublin. King Henry then appointed Hugh de Lacy governor-general of Ireland, joining in commission with him Robert Poer[^109]
 with the constableship both of
 Waterford and Wexford. The king also granted to Robert Fitz-Stephen and Milo de Cogan all the southern
 part of Munster, namely, the kingdom of Cork from the west of Lismore, and the adjoining cantred, except
@@ -2875,8 +2859,7 @@ received. It has been already mentioned in the Topography, that a cantred, both 
 signifies a tract of lands containing one hundred vills.
 
 After this, his two confederates conducted Philip de Braose to Limerick; Fitz-Stephen taking with
-him thirty men-at arms and forty horse soldiers; Milo de Cogan, twenty men at-arms and fifty horse-
-soldiers; and Philip de Braose, twenty men-at-arms and sixty horse soldiers; besides the bowmen attached
+him thirty men-at arms and forty horse soldiers; Milo de Cogan, twenty men at-arms and fifty horse-soldiers; and Philip de Braose, twenty men-at-arms and sixty horse soldiers; besides the bowmen attached
 to each body of troops. On reaching the bank of the Shannon, over against Limerick, distant about forty
 miles from Cork, Fitz-Stephen and Milo de Cogan offered immediately to ford the river and storm the
 town, although it was then in flames before their eyes, having been set on fire by the citizens themselves;
@@ -2997,7 +2980,7 @@ to be crowned as king of Ireland.
 ## Chapter XX: A description of Hugh de Lacy
 
 If you wish to have a portrait of this great man, know that he had a dark complexion, with black,
-sunken eves, and rather flat nostrils, and that he had a burn on the face from some accident which much
+sunken eyes, and rather flat nostrils, and that he had a burn on the face from some accident which much
 disfigured him, the scar reaching down his right cheek to his chin. His neck was short, his body hairy and
 very muscular. He was short in stature, and ill-proportioned in shape. If you ask what were his habits and
 disposition, he was firm and steadfast, as temperate as a Frenchman, very attentive to his own private
@@ -3013,8 +2996,7 @@ flourished at the same time the two sons of Maurice Fitz-Stephen, Alexander and 
 whom, though short in stature, was a man of great prudence and worth. Robert le Poer, who commanded
 the garrison of Leighlin under Hugh de Lacy, was also a man of note at this time. At Waterford there was
 William le Poer; and Robert de Barri, the younger son of Philip, flourished both on the borders of Leinster
-and in Desmond; and there were the two Raymonds, both Raymond of Kantitune and Raymond Fitz-
-Hugh. About this time the two wonderful miracles described in my Topography occurred at Foure, in
+and in Desmond; and there were the two Raymonds, both Raymond of Kantitune and Raymond Fitz-Hugh. About this time the two wonderful miracles described in my Topography occurred at Foure, in
 <!-- 66 --> Meath, one which ensued on a woman's being violated in St. Fechin's mill, the other in consequence of
 the oats which were stolen and secreted.[^120]
 
@@ -3043,8 +3025,7 @@ named Robert of Salisbury, was joined in commission with him, as his coadjutor a
 the king's behalf, to be privy to all his doings. On Hugh de Lacy's arrival, he set about building several
 more castles, among which was one at Tahmel, in Lex, for Meyler, to whom he also then gave his niece in
 marriage. He also built a castle near to it, at Obowy, for Robert de Bigarz; another, for Thomas de
-Flandres, not far distant, in Omurethy, on the other side of the river Barrow; and one for Robert Fitz-
-Richard at Norrach. In Meath he built the castles of Clunart and Killeen; a castle for Adam de Riceport;
+Flandres, not far distant, in Omurethy, on the other side of the river Barrow; and one for Robert Fitz-Richard at Norrach. In Meath he built the castles of Clunart and Killeen; a castle for Adam de Riceport;
 one for Gilbert de Nugent; and many others which it would be tedious to enumerate.
 
 About this time that strange meeting and talk between the priest and the wolf, which is fully
@@ -3333,7 +3314,7 @@ I will mention what I think. Woch, Woch, in the German tongue, is a sort of inte
 signifying woe; it means the same as if it were said, Alas! alas! Father and Son! alas! alas! Holy Ghost!
 And by that woeful moan, beginning in German, and ended in Latin, it may signify that the nations who
 use those tongues are the only people who with their princes take this affliction of our Saviour seriously to
-heart, as is evident frcm their being the most forward in their preparations to avenge it. God forbid that the
+heart, as is evident from their being the most forward in their preparations to avenge it. God forbid that the
 passion or lamentation should be understood as referring to any slaughter of the faithful which may
 hereafter happen, and more especially to the nations engaged in this expedition.
 
@@ -3534,7 +3515,7 @@ full sovereignty over, and the peaceable obedience of, the people they had partl
 to submission. Therefore, perhaps, it was the will of God that both nations should be long engaged in
 mutual conflicts, neither of them having merited or altogether forfeited his favour, so that the one did not
 gain the prize of triumphant success, nor was the other so vanquished as to submit their necks generally to
-the yoke of servitude,
+the yoke of servitude.
 
 The Irish may be said to have four prophets, Molingus, Braccanus, Patrick, and Columkill, whose
 books, written in Irish, are still extant; and all these, speaking of this conquest, agree in affirming that it
@@ -3558,15 +3539,10 @@ again attacked when plundering towards Limerick, and nineteen men-at-arms slain.
 prince of Desmond, and many others, fell by the hands of the men of Cork, and the troops of Theobald
 Fitz-Walter, in a parley near Cork. The men of Keneleone (Kilkenny), under their prince, having made a
 too daring irruption into the borders of Meath, the men of Meath, under the command of William the
-Little (Gulielmus Modicus), put one hundred of the invaders to the sword, and sent their heads to Dublin.
+Little (*Gulielmus Modicus*), put one hundred of the invaders to the sword, and sent their heads to Dublin.
 John de Courcy having discovered a precious treasure, the bodies of three Saints, Patrick, Bridget, and
 Columba, at Down, these relics were by his care translated. Hugh de Lacy was treacherously slain and
 decapitated by the axes of the Irish under his dominion at Dernach. Thirteen of John de Courcy's noble
-Giraldus states the number of men-at-arms who went over with king Henry to have been 500, but he does not furnish any account
-of the rest of his forces. This is, however, immaterial to our present purpose; as, though the presence of a numerous royal army
-may have awed the native princes into a more perfect submission, all the fighting seems to have been done before; the heart of the
-people was broken, the country had been traversed from east to west, and all the strong places had been reduced, and that with a
-force little exceeding 2000 men.
 <!-- 78 --> men-at-arms were slain as they were returning with him from Connaught. Roger le Poer, a young man of
 great bravery, and much lamented, was killed at Ossory, with many of his people; whereupon, a secret
 conspiracy against the English was formed throughout Ireland, many castles were destroyed, and the
@@ -3719,7 +3695,7 @@ rendered no assistance to those who did not ask for it, the others had little su
 It is an old saying, that every man is most to be believed in respect of his own art; and so, as regards
 this expedition, their judgment may be best relied on, who have been longest conversant with the similar
 state of affairs in the country, and are most acquainted with the manners and customs of the people. And it
-much concerns them that this hostile race., whose implacable enmity they have drawn on themselves in
+much concerns them that this hostile race, whose implacable enmity they have drawn on themselves in
 the course of the continual conflicts of a long war, should by their aid either have their power reduced, or
 be altogether discomfited. I may also say of those parts of Wales which are inhabited by the English, that
 it would be happy for them if the king had long ago adopted a similar policy in dealing with the
@@ -3834,7 +3810,7 @@ For comments/questions, create an issue on the [github repo](https://github.com/
 
 [^7]: By the birds may be intended some of the nobler breeds of hawks for sporting. We shall find, in the course of the History, that the tribute of Roderic O'Connor, king of Connaught, was reserved to be paid in skins.
 
-[^8]: French or Norman was the language commonly used by the higher classes in England at this period; Latin, in which all the chronicles were composed. being confined to the ecclesiastics, the only men of learning; and the good old Anglo-Saxon tongue, in which the first of chronicles is written, being out of vogue, the language only of the vulgar, who could not read, or for whose instruction Giraldus, with all his love of popularity, felt no concern. It need not be added that, as far as we know, Giraldus did not succeed in his petition to have his History translated.
+[^8]: French or Norman was the language commonly used by the higher classes in England at this period; Latin, in which all the chronicles were composed, being confined to the ecclesiastics, the only men of learning; and the good old Anglo-Saxon tongue, in which the first of chronicles is written, being out of vogue, the language only of the vulgar, who could not read, or for whose instruction Giraldus, with all his love of popularity, felt no concern. It need not be added that, as far as we know, Giraldus did not succeed in his petition to have his History translated.
 
 [^9]: Waiter Mapes, a name celebrated in our literary history of the latter half of the twelfth century, was the intimate friend of Giraldus Cambrensis. He possessed much pungent humour, which he employed in inveighing bitterly against the profligacy of the monks.
 
@@ -3874,7 +3850,7 @@ For comments/questions, create an issue on the [github repo](https://github.com/
 
 [^24]: The family of Prendergast took their name from a vill, formerly belonging to them, which is now a suburb of Haverfordwest. This town was the chief place in the district of Ros, in which a colony of Flemings was planted in the time of Henry I. See afterwards, in the "Itinerary of Wales," B i. c. 11.
 
-[^25]: "It is by no means a question devoid of interest to identify the spot where these first Anglo-Norman invaders set foot on the soil of Ireland. There is a tradition which places it at a small peninsula or promontory on the coast of Wexford, now called Bagabun, which, consisting of about thirty acres, forms a bold projection towards the Welsh coast. On one side of the greater headland is a lesser promontory stretching out to the east, about two hundred yards long, and seventy broad, accessible only at its extreme point; behind which rises a lofty insulated rock, forming a breakwater to the surf on the point, and imperfectly joined to the mainland by several smaller rocks which are just seen above water, and are described as forming a kind of causeway to the point of the promontory itself. Here it is pretended that Robert Fitz-Stephen ran in his ships, mooring them under the protection of the larger rock, and landing his men by means of the low ridge. The cut between the last of these rocks, across which he is said to have jumped, is called popularly ÔFitz-Stephen's Stride.' The invaders are supposed to have first occupied the esplanade of the smaller peninsula, where there are still traces of hasty fortifications, which command the approaches and overlook the ground in the vicinity. In the middle of the rude encampment is a space like the foundations of a house, which is called ÔFitz-Stephen's Tent.' Others, however, have been inclined to disbelieve the tradition which made the Anglo-Normans land on the promontory of Bagabun, and they think, from the identity of the name, and its position with regard to Wexford, that the place now called Bannow, which may, from the known encroachments of the sea on this coast, have formerly been a peninsula, is the Banne of the ancient writers.--Wright's History of Ireland, vol. i, p. 71.
+[^25]: "It is by no means a question devoid of interest to identify the spot where these first Anglo-Norman invaders set foot on the soil of Ireland. There is a tradition which places it at a small peninsula or promontory on the coast of Wexford, now called Bagabun, which, consisting of about thirty acres, forms a bold projection towards the Welsh coast. On one side of the greater headland is a lesser promontory stretching out to the east, about two hundred yards long, and seventy broad, accessible only at its extreme point; behind which rises a lofty insulated rock, forming a breakwater to the surf on the point, and imperfectly joined to the mainland by several smaller rocks which are just seen above water, and are described as forming a kind of causeway to the point of the promontory itself. Here it is pretended that Robert Fitz-Stephen ran in his ships, mooring them under the protection of the larger rock, and landing his men by means of the low ridge. The cut between the last of these rocks, across which he is said to have jumped, is called popularly 'Fitz-Stephen's Stride.' The invaders are supposed to have first occupied the esplanade of the smaller peninsula, where there are still traces of hasty fortifications, which command the approaches and overlook the ground in the vicinity. In the middle of the rude encampment is a space like the foundations of a house, which is called 'Fitz-Stephen's Tent.' Others, however, have been inclined to disbelieve the tradition which made the Anglo-Normans land on the promontory of Bagabun, and they think, from the identity of the name, and its position with regard to Wexford, that the place now called Bannow, which may, from the known encroachments of the sea on this coast, have formerly been a peninsula, is the Banne of the ancient writers."--*Wright's History of Ireland*, vol. i, p. 71.
 
 [^26]: Robert de Barri was an elder brother of Giraldus, being the son of William do Barri, who married Angharad, daughter of Nesta, by Gerald de Windsor. See the Pedigree at the beginning of this history.
 
@@ -3910,7 +3886,26 @@ For comments/questions, create an issue on the [github repo](https://github.com/
 
 [^42]: See the Topography, Distinct. ii. c. 28. There appears to have been good strategical reasons for approaching Dublin through the mountainous districts of Wexford and Wicklow, debouching in the valley of Glendalough; as Dermot thereby not only kept within his own territories, but outflanked the hostile septs of Ossory and Meath, who, combined with the powerful tribes in the west of Ireland, might have disputed his passage through the country of woods and bogs which lay in his direct road.
 
-[^43]: Laurence O'Toole, archbishop of Dublin, 1162-1180, was son of Maurice O'Toole, petty prince of Smaly. He was educated at Glendalough, which lay in his father's territories, and frequently in after-life retired to its sacred recesses. When Dublin was first threatened by foreign invaders, he interposed his mediation between the citizens and Dermot, considering him,
+[^43]: Laurence O'Toole, archbishop of Dublin, 1162-1180, was son of
+       Maurice O'Toole, petty prince of Smaly. He was educated at
+       Glendalough, which lay in his father's territories, and
+       frequently in after-life retired to its sacred recesses. When
+       Dublin was first threatened by foreign invaders, he interposed
+       his mediation between the citizens and Dermot, considering him
+       probably as their paramount prince, though the Ostmen of Dublin
+       were in some degree independent. But his patriotic zeal
+       afterwards induced him to join the league of the native princes
+       against the rising power of the Anglo or Cambro-Normans, and
+       even to head one body of the forces which laid siege to
+       Dublin. Finding, however, that resistance to the English power
+       was hopeless, and perhaps hoping that the reform and
+       advancement of the church, to which Henry was pledged, would be
+       carried into effect, he submitted to the English
+       king. Notwithstanding this, we find in the sequel of the
+       History (B. ii. c. 23), that his patriotic conduct at the
+       council of Lateran, towards the close of his life, gave umbrage
+       to Henry, and that in consequence he found a grave in a foreign
+       land.
 
 [^44]: Giraldus has informed us in his Topography (Distinct. iii. c. 43), that the Ostmen, who were Danes and Norwegians, but principally the latter, founded colonies in Dublin, Waterford, and other places, on the coast of Ireland, including Limerick and Cork, ostensibly for the purpose of trade, but that they soon surrounded their towns with strong fortifications, and became formidable to the native princes. We also find from various indications in our author, and from other sources, that their numbers were very considerable, and that they formed, as in England, separate communities under their own laws, and kings of their own race, of whom there are records of a succession during three centuries from Anlaf or Olaf, the first king of Dublin mentioned by Giraldus, to Ansculf or Asgal, whom we here find opposing the English, and in Waterford from Sihtric, who was contemporary with Anlaf, to Reginald or Regnald, who is referred to in a preceding chapter. These Scandinavian kings in Ireland, particularly those of Dublin, gradually extended their power, not only by their arms, taking advantage of the intestine divisions of the Irish princes, but by forming alliances and intermarriages with them.
 
@@ -4128,7 +4123,7 @@ For comments/questions, create an issue on the [github repo](https://github.com/
 
 [^133]: Henry received the envoys from the Holy Land at Reading, and made his reply at a solemn assembly of the lords spiritual and temporal at Clerkenwell, on the 18th of March, 1185.
 
-[^134]: Giraldus calls it "castrum Rad." Ch‰teauroux is now the chief town of the department of the Indre; it took its name from Raoul or Ralph de DŽols, its founder, in the tenth century. Issoudun, another fortress in the neighbourhood, fell into the hands of Philip at the same time.
+[^134]: Giraldus calls it "castrum Rad." Châteauroux is now the chief town of the department of the Indre; it took its name from Raoul or Ralph de Déols, its founder, in the tenth century. Issoudun, another fortress in the neighbourhood, fell into the hands of Philip at the same time.
 
 [^135]: Psalm cii. v. 10.
 
@@ -4150,7 +4145,25 @@ For comments/questions, create an issue on the [github repo](https://github.com/
 
 [^144]: See B. i. c. 19.
 
-[^145]: It is surprising with how small a number of troops the capture of several important places, the reduction of at least all Leinster, and the general submission of the native princes, was effected. Giraldus has stated very exactly the numbers embarked in the several expeditions, and on counting them up we find that the Fitzgeralds and other adventurers from Wales took over at different times 1030 men, in the proportions of 80 men-at-arms, 180 other horsemen, and 770 archers and foot soldiers, all levied amongst their own kinsmen and retainers. Earl Strongbow's expedition mustered 1200 men, of whom 200 were men-at-arms.
+[^145]: It is surprising with how small a number of troops the capture
+        of several important places, the reduction of at least all
+        Leinster, and the general submission of the native princes, was
+        effected. Giraldus has stated very exactly the numbers embarked in
+        the several expeditions, and on counting them up we find that the
+        Fitzgeralds and other adventurers from Wales took over at
+        different times 1030 men, in the proportions of 80 men-at-arms,
+        180 other horsemen, and 770 archers and foot soldiers, all levied
+        amongst their own kinsmen and retainers. Earl Strongbow's
+        expedition mustered 1200 men, of whom 200 were
+        men-at-arms. Giraldus states the number of men-at-arms who went
+        over with king Henry to have been 500, but he does not furnish any
+        account of the rest of his forces. This is, however, immaterial to
+        our present purpose; as, though the presence of a numerous royal
+        army may have awed the native princes into a more perfect
+        submission, all the fighting seems to have been done before; the
+        heart of the people was broken, the country had been traversed
+        from east to west, and all the strong places had been reduced, and
+        that with a force little exceeding 2000 men.
 
 [^146]: There appears to be a touch of irony in the language by which Giraldus devolves on future historians the task of writing the annals of the disgraceful manner in which John's inauguration in his new dominion of Ireland was conducted. He does not, however, hesitate in the following chapters, which we think will be considered, for the most part, very ably written, to indicate his opinion of the mal-administration, which he failed to prevent, and at the same time points out its causes, and suggests remedies for the evil, and rules for the good government of Ireland.
 
